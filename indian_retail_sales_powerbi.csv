@@ -1,0 +1,1001 @@
+﻿Order ID,Order Date,Customer ID,Customer Name,Segment,Country,State,City,Region,Category,Sub Category,Product Name,Sales,Quantity,Discount,Profit,Payment Mode
+ORD202401020868,02-01-2024,CUST10501,Kavya Rao,Corporate,India,Kerala,Kochi,South,Furniture,Chairs,Ergonomic Office Chair,9100,2,0.3,290.75,Credit Card
+ORD202401030501,03-01-2024,CUST10158,Aarav Banerjee,Consumer,India,Kerala,Kochi,South,Furniture,Storage,Wardrobe,13875,1,0.25,-169.69,UPI
+ORD202401040710,04-01-2024,CUST10468,Anika Iyer,Corporate,India,Karnataka,Bengaluru,South,Technology,Computers,Tablet,22499.1,1,0.1,3558.2,Debit Card
+ORD202401040773,04-01-2024,CUST10164,Sanjay Reddy,Consumer,India,Chhattisgarh,Raipur,Central,Furniture,Home Decor,Decorative Mirror,8640,3,0.1,1447,UPI
+ORD202401060853,06-01-2024,CUST10054,Nisha Pillai,Consumer,India,Maharashtra,Pune,West,Furniture,Chairs,Dining Chair,2660,1,0.05,514.14,COD
+ORD202401100158,10-01-2024,CUST10009,Aditi Chopra,Corporate,India,Gujarat,Ahmedabad,West,Home & Kitchen,Appliances,Electric Kettle,1169.1,1,0.1,207.29,UPI
+ORD202401110777,11-01-2024,CUST10365,Manish Mishra,Consumer,India,Punjab,Ludhiana,North,Technology,Phones,Android Smartphone,32198.6,2,0.3,-2770.82,Debit Card
+ORD202401120668,12-01-2024,CUST10176,Saanvi Khan,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Appliances,Mixer Grinder,2969.1,1,0.1,353.44,Credit Card
+ORD202401130322,13-01-2024,CUST10216,Ishaan Mehta,Consumer,India,Gujarat,Ahmedabad,West,Office Supplies,Binders,Document Folder,142.5,1,0.05,26.39,Net Banking
+ORD202401140783,14-01-2024,CUST10010,Priya Naidu,Home Office,India,Gujarat,Ahmedabad,West,Office Supplies,Paper,A4 Paper Ream,272,1,0.15,34.66,COD
+ORD202401170432,17-01-2024,CUST10148,Rohan Pillai,Corporate,India,Kerala,Kochi,South,Home & Kitchen,Appliances,Mixer Grinder,2639.2,1,0.2,133.07,COD
+ORD202401200238,20-01-2024,CUST10234,Pooja Naidu,Consumer,India,Gujarat,Surat,West,Technology,Computers,Tablet,49998,2,0,10477.35,Debit Card
+ORD202401200352,20-01-2024,CUST10373,Varun Verma,Corporate,India,Uttar Pradesh,Lucknow,North,Office Supplies,Paper,Sticky Notes Pack,1152,8,0.2,76.7,Debit Card
+ORD202401200510,20-01-2024,CUST10496,Aditya Joshi,Corporate,India,Maharashtra,Pune,West,Technology,Computers,Business Laptop,212396.4,4,0.1,-1423.66,UPI
+ORD202401230771,23-01-2024,CUST10171,Diya Bose,Consumer,India,Gujarat,Surat,West,Office Supplies,Paper,Sticky Notes Pack,126,1,0.3,-2.32,COD
+ORD202401240069,24-01-2024,CUST10093,Zoya Banerjee,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Appliances,Mixer Grinder,6598,2,0,919.69,Credit Card
+ORD202401240632,24-01-2024,CUST10546,Aditya Pillai,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Cookware,Cookware Set,9672.75,3,0.25,-534.32,Net Banking
+ORD202401260980,26-01-2024,CUST10375,Sneha Mehta,Corporate,India,Bihar,Patna,East,Home & Kitchen,Appliances,Air Fryer,9798.6,2,0.3,-34.13,Credit Card
+ORD202401280667,28-01-2024,CUST10192,Aishwarya Verma,Consumer,India,Karnataka,Bengaluru,South,Office Supplies,Writing,Pen Set,225,1,0.1,46.95,UPI
+ORD202401280882,28-01-2024,CUST10432,Sneha Naidu,Consumer,India,Gujarat,Surat,West,Office Supplies,Writing,Premium Notebook,440,2,0,130.27,Credit Card
+ORD202401300219,30-01-2024,CUST10178,Akash Shah,Consumer,India,Delhi,New Delhi,North,Furniture,Tables,Wooden Table,12750,2,0.25,205.9,UPI
+ORD202401310839,31-01-2024,CUST10549,Sanjay Sharma,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Technology,Accessories,Mechanical Keyboard,3324.05,1,0.05,675.96,UPI
+ORD202402010015,01-02-2024,CUST10094,Dev Iyer,Corporate,India,Delhi,New Delhi,North,Home & Kitchen,Lighting,Smart Bulb Pack,2158.2,2,0.1,423.06,Debit Card
+ORD202402010430,01-02-2024,CUST10241,Aarav Kapoor,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Bedding,Comforter,6298.2,2,0.1,721.59,UPI
+ORD202402030001,03-02-2024,CUST10380,Rahul Bose,Consumer,India,Telangana,Hyderabad,South,Technology,Phones,Android Smartphone,206991,10,0.1,20955.25,Debit Card
+ORD202402030148,03-02-2024,CUST10461,Akash Deshmukh,Consumer,India,Maharashtra,Nagpur,West,Home & Kitchen,Cookware,Non-stick Pan,1274.15,1,0.15,189.82,COD
+ORD202402040959,04-02-2024,CUST10279,Samiksha Singh,Corporate,India,Karnataka,Bengaluru,South,Home & Kitchen,Appliances,Air Fryer,27996,5,0.2,-1099.86,Credit Card
+ORD202402050700,05-02-2024,CUST10371,Zoya Rao,Consumer,India,Maharashtra,Mumbai,West,Technology,Phones,Feature Phone,14994,6,0,2018.76,Credit Card
+ORD202402070539,07-02-2024,CUST10207,Ira Verma,Consumer,India,Gujarat,Surat,West,Furniture,Storage,Wardrobe,55500,3,0,12729.09,Net Banking
+ORD202402090215,09-02-2024,CUST10406,Aditya Banerjee,Home Office,India,Odisha,Bhubaneswar,East,Technology,Computers,Tablet,47498.1,2,0.05,5682.75,UPI
+ORD202402090984,09-02-2024,CUST10379,Neha Deshmukh,Consumer,India,Gujarat,Surat,West,Technology,Accessories,Wireless Mouse,1438.4,2,0.2,97.59,Debit Card
+ORD202402120064,12-02-2024,CUST10030,Arjun Joshi,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Writing,Premium Notebook,374,2,0.15,60.67,Debit Card
+ORD202402130211,13-02-2024,CUST10434,Anika Banerjee,Consumer,India,Tamil Nadu,Chennai,South,Technology,Accessories,USB-C Hub,1649.25,1,0.25,157.48,UPI
+ORD202402160109,16-02-2024,CUST10577,Saanvi Chopra,Corporate,India,Gujarat,Surat,West,Furniture,Storage,Filing Cabinet,42120,6,0.1,4778.97,UPI
+ORD202402170118,17-02-2024,CUST10077,Priya Nair,Corporate,India,Punjab,Ludhiana,North,Furniture,Tables,Study Desk,5890,1,0.05,810.98,COD
+ORD202402180267,18-02-2024,CUST10391,Anika Iyer,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Chairs,Accent Chair,6120,1,0.15,1112.8,COD
+ORD202402190609,19-02-2024,CUST10313,Karan Mehta,Home Office,India,Delhi,New Delhi,North,Technology,Audio,Bluetooth Speaker,2699.1,1,0.1,558.34,Credit Card
+ORD202402190744,19-02-2024,CUST10175,Varun Deshmukh,Consumer,India,Karnataka,Bengaluru,South,Technology,Phones,Feature Phone,4998,2,0,506.45,Credit Card
+ORD202402200924,20-02-2024,CUST10239,Neha Jain,Consumer,India,Maharashtra,Pune,West,Technology,Audio,Wireless Headphones,4249.15,1,0.15,131.78,Debit Card
+ORD202402220481,22-02-2024,CUST10114,Akash Gupta,Consumer,India,Telangana,Hyderabad,South,Furniture,Storage,Wardrobe,16650,1,0.1,572.44,Debit Card
+ORD202402230030,23-02-2024,CUST10343,Ira Naidu,Consumer,India,Gujarat,Ahmedabad,West,Home & Kitchen,Bedding,Comforter,8922.45,3,0.15,1511.36,COD
+ORD202402230618,23-02-2024,CUST10208,Sneha Joshi,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Audio,Wireless Headphones,28494.3,6,0.05,4333.05,Credit Card
+ORD202402230639,23-02-2024,CUST10302,Meera Banerjee,Corporate,India,Karnataka,Bengaluru,South,Furniture,Home Decor,Floor Lamp,9600,5,0.2,1414.67,Credit Card
+ORD202402230692,23-02-2024,CUST10145,Ananya Gupta,Home Office,India,Gujarat,Surat,West,Furniture,Tables,Coffee Table,7200,2,0.2,278.01,Credit Card
+ORD202402240522,24-02-2024,CUST10070,Sanjay Das,Consumer,India,Maharashtra,Mumbai,West,Technology,Audio,Wireless Headphones,4249.15,1,0.15,152.91,UPI
+ORD202402260569,26-02-2024,CUST10073,Saanvi Khan,Consumer,India,Karnataka,Bengaluru,South,Furniture,Home Decor,Wall Art Set,1350,1,0.25,214.21,UPI
+ORD202402270026,27-02-2024,CUST10361,Priya Shah,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Lighting,LED Desk Lamp,799.2,1,0.2,40.55,COD
+ORD202402280052,28-02-2024,CUST10077,Priya Nair,Corporate,India,Karnataka,Bengaluru,South,Office Supplies,Writing,Pen Set,212.5,1,0.15,45.03,UPI
+ORD202402290094,29-02-2024,CUST10573,Kavya Joshi,Consumer,India,West Bengal,Kolkata,East,Furniture,Home Decor,Wall Art Set,6120,4,0.15,1245.2,UPI
+ORD202402290597,29-02-2024,CUST10533,Ira Mishra,Home Office,India,Tamil Nadu,Chennai,South,Home & Kitchen,Bedding,Comforter,17495,5,0,3659.42,Credit Card
+ORD202403010084,01-03-2024,CUST10092,Sneha Kulkarni,Corporate,India,Uttar Pradesh,Lucknow,North,Furniture,Tables,Study Desk,31000,5,0,8951.22,Net Banking
+ORD202403010905,01-03-2024,CUST10143,Arjun Reddy,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Tables,Study Desk,4650,1,0.25,344.59,Debit Card
+ORD202403030002,03-03-2024,CUST10408,Nisha Kapoor,Consumer,India,Gujarat,Ahmedabad,West,Home & Kitchen,Cookware,Non-stick Pan,3822.45,3,0.15,212.11,Debit Card
+ORD202403030953,03-03-2024,CUST10576,Pooja Sharma,Corporate,India,Punjab,Ludhiana,North,Office Supplies,Organizers,Cable Organizer,1076.4,4,0.1,173.84,UPI
+ORD202403040985,04-03-2024,CUST10322,Kavya Joshi,Consumer,India,Madhya Pradesh,Indore,Central,Office Supplies,Writing,Premium Notebook,660,3,0,222.56,COD
+ORD202403050458,05-03-2024,CUST10554,Riya Jain,Corporate,India,Kerala,Kochi,South,Home & Kitchen,Cookware,Non-stick Pan,1424.05,1,0.05,339.55,Credit Card
+ORD202403080485,08-03-2024,CUST10193,Rahul Gupta,Home Office,India,Telangana,Hyderabad,South,Furniture,Chairs,Dining Chair,13300,5,0.05,3210.99,UPI
+ORD202403080619,08-03-2024,CUST10496,Aditya Joshi,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Storage,Filing Cabinet,53040,8,0.15,2492.04,Credit Card
+ORD202403090053,09-03-2024,CUST10242,Sanjay Deshmukh,Corporate,India,Bihar,Patna,East,Office Supplies,Organizers,Desk Organizer,1657.5,3,0.15,307.19,UPI
+ORD202403090790,09-03-2024,CUST10116,Pooja Bose,Consumer,India,Punjab,Ludhiana,North,Technology,Computers,Desktop Computer,408490.5,10,0.05,41421.93,UPI
+ORD202403100165,10-03-2024,CUST10015,Nisha Singh,Consumer,India,Maharashtra,Pune,West,Furniture,Home Decor,Decorative Mirror,2720,1,0.15,516.52,Credit Card
+ORD202403100400,10-03-2024,CUST10438,Saanvi Sharma,Corporate,India,Maharashtra,Nagpur,West,Office Supplies,Organizers,Desk Organizer,520,1,0.2,29.17,Credit Card
+ORD202403100513,10-03-2024,CUST10102,Ananya Patel,Corporate,India,Maharashtra,Mumbai,West,Technology,Accessories,Mechanical Keyboard,2974.15,1,0.15,217.43,Debit Card
+ORD202403100677,10-03-2024,CUST10085,Arjun Shah,Consumer,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Appliances,Electric Kettle,4156.8,4,0.2,57.71,UPI
+ORD202403110351,11-03-2024,CUST10544,Aditya Rao,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Binders,Document Folder,127.5,1,0.15,14.73,UPI
+ORD202403120781,12-03-2024,CUST10147,Ishaan Pillai,Consumer,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Lighting,LED Desk Lamp,2997,3,0,944.24,UPI
+ORD202403120850,12-03-2024,CUST10482,Priya Jain,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Binders,Document Folder,540,4,0.1,98.77,UPI
+ORD202403130231,13-03-2024,CUST10484,Samiksha Das,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Furniture,Home Decor,Decorative Mirror,3200,1,0,1054.7,UPI
+ORD202403140343,14-03-2024,CUST10557,Saanvi Gupta,Consumer,India,Delhi,New Delhi,North,Office Supplies,Organizers,Desk Organizer,552.5,1,0.15,48.26,Debit Card
+ORD202403140900,14-03-2024,CUST10349,Samiksha Singh,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Appliances,Mixer Grinder,5938.2,2,0.1,381.8,Debit Card
+ORD202403150813,15-03-2024,CUST10229,Tanvi Gupta,Consumer,India,Telangana,Hyderabad,South,Furniture,Storage,Wardrobe,33300,2,0.1,4647.37,UPI
+ORD202403170751,17-03-2024,CUST10376,Riya Iyer,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Paper,Notebook Pack,900,2,0,284.19,UPI
+ORD202403170945,17-03-2024,CUST10335,Ishaan Pillai,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Organizers,Desk Organizer,1852.5,3,0.05,494.55,Credit Card
+ORD202403180152,18-03-2024,CUST10096,Ananya Singh,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Organizers,Cable Organizer,299,1,0,95.2,Debit Card
+ORD202403200802,20-03-2024,CUST10372,Vikram Das,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Tables,Study Desk,6200,1,0,1175.94,UPI
+ORD202403210329,21-03-2024,CUST10391,Anika Iyer,Consumer,India,Telangana,Hyderabad,South,Technology,Accessories,USB-C Hub,8356.2,4,0.05,1887.48,Credit Card
+ORD202403210365,21-03-2024,CUST10058,Akash Iyer,Home Office,India,Odisha,Bhubaneswar,East,Office Supplies,Organizers,Cable Organizer,1794,6,0,570.23,Debit Card
+ORD202403210659,21-03-2024,CUST10284,Kavya Naidu,Home Office,India,Gujarat,Ahmedabad,West,Furniture,Chairs,Dining Chair,2660,1,0.05,359.18,UPI
+ORD202403220309,22-03-2024,CUST10039,Rohan Reddy,Corporate,India,Karnataka,Bengaluru,South,Office Supplies,Paper,A4 Paper Ream,864,3,0.1,63.28,Debit Card
+ORD202403230878,23-03-2024,CUST10298,Nisha Rao,Consumer,India,Kerala,Kochi,South,Office Supplies,Writing,Premium Notebook,594,3,0.1,160.6,UPI
+ORD202403250050,25-03-2024,CUST10435,Arjun Jain,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Binders,Ring Binder Pack,408,1,0.15,30.77,Debit Card
+ORD202403250117,25-03-2024,CUST10512,Aditya Singh,Corporate,India,Odisha,Bhubaneswar,East,Furniture,Chairs,Ergonomic Office Chair,5200,1,0.2,646.14,Credit Card
+ORD202403250439,25-03-2024,CUST10130,Pooja Patel,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Writing,Premium Notebook,176,1,0.2,9.15,UPI
+ORD202403270441,27-03-2024,CUST10149,Aishwarya Jain,Consumer,India,Gujarat,Surat,West,Home & Kitchen,Lighting,Smart Bulb Pack,1079.1,1,0.1,198.84,UPI
+ORD202403270884,27-03-2024,CUST10057,Anika Shah,Consumer,India,Gujarat,Ahmedabad,West,Office Supplies,Paper,Notebook Pack,765,2,0.15,132.73,UPI
+ORD202403290279,29-03-2024,CUST10289,Akash Deshmukh,Corporate,India,Telangana,Hyderabad,South,Home & Kitchen,Lighting,LED Desk Lamp,1798.2,2,0.1,259.11,Credit Card
+ORD202403290581,29-03-2024,CUST10309,Aditya Singh,Corporate,India,Gujarat,Surat,West,Home & Kitchen,Lighting,LED Desk Lamp,749.25,1,0.25,75.62,Credit Card
+ORD202403290899,29-03-2024,CUST10597,Karan Pillai,Consumer,India,Gujarat,Ahmedabad,West,Technology,Computers,Business Laptop,265495.5,5,0.1,11183.69,Credit Card
+ORD202403300793,30-03-2024,CUST10241,Aarav Kapoor,Consumer,India,Delhi,New Delhi,North,Furniture,Storage,Filing Cabinet,15600,2,0,2424.58,COD
+ORD202403310022,31-03-2024,CUST10448,Manish Verma,Corporate,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Lighting,LED Desk Lamp,1898.1,2,0.05,408.15,UPI
+ORD202403310989,31-03-2024,CUST10120,Dev Nair,Home Office,India,Rajasthan,Jaipur,North,Furniture,Tables,Study Desk,13950,3,0.25,765.03,Debit Card
+ORD202404010370,01-04-2024,CUST10116,Pooja Bose,Corporate,India,Tamil Nadu,Chennai,South,Office Supplies,Binders,Ring Binder Pack,408,1,0.15,14.64,UPI
+ORD202404020512,02-04-2024,CUST10150,Arjun Das,Corporate,India,Punjab,Ludhiana,North,Office Supplies,Binders,Ring Binder Pack,1920,5,0.2,145.56,Credit Card
+ORD202404020541,02-04-2024,CUST10407,Dev Kapoor,Home Office,India,Gujarat,Surat,West,Technology,Computers,Tablet,56247.75,3,0.25,-1655.14,COD
+ORD202404020547,02-04-2024,CUST10242,Sanjay Deshmukh,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Bedding,Comforter,13296.2,4,0.05,1844.36,Debit Card
+ORD202404020572,02-04-2024,CUST10433,Pooja Mehta,Corporate,India,Rajasthan,Jaipur,North,Home & Kitchen,Lighting,LED Desk Lamp,899.1,1,0.1,170.73,UPI
+ORD202404050748,05-04-2024,CUST10170,Saanvi Iyer,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Organizers,Desk Organizer,4680,8,0.1,777.89,Debit Card
+ORD202404080011,08-04-2024,CUST10382,Sanjay Iyer,Corporate,India,Madhya Pradesh,Indore,Central,Furniture,Storage,Filing Cabinet,7020,1,0.1,1040,Debit Card
+ORD202404080275,08-04-2024,CUST10172,Kavya Mehta,Home Office,India,Madhya Pradesh,Indore,Central,Furniture,Chairs,Ergonomic Office Chair,15600,3,0.2,1889.05,Credit Card
+ORD202404090708,09-04-2024,CUST10217,Neha Pillai,Consumer,India,Maharashtra,Mumbai,West,Home & Kitchen,Bedding,Comforter,6648.1,2,0.05,1247.34,UPI
+ORD202404100862,10-04-2024,CUST10051,Saanvi Nair,Corporate,India,Tamil Nadu,Chennai,South,Technology,Phones,Android Smartphone,39098.3,2,0.15,259.57,Credit Card
+ORD202404120678,12-04-2024,CUST10182,Saanvi Reddy,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Appliances,Mixer Grinder,9897,3,0,1368.31,Credit Card
+ORD202404120782,12-04-2024,CUST10387,Kabir Mehta,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Chairs,Ergonomic Office Chair,6500,1,0,1234.8,Debit Card
+ORD202404130588,13-04-2024,CUST10426,Kavya Mehta,Home Office,India,Kerala,Kochi,South,Office Supplies,Writing,Pen Set,350,2,0.3,8.83,UPI
+ORD202404130864,13-04-2024,CUST10283,Aditya Naidu,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Lighting,LED Desk Lamp,799.2,1,0.2,109.36,Credit Card
+ORD202404150171,15-04-2024,CUST10588,Ira Naidu,Corporate,India,Gujarat,Ahmedabad,West,Technology,Computers,Business Laptop,294995,5,0,22548.65,UPI
+ORD202404150254,15-04-2024,CUST10414,Ananya Reddy,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Chairs,Accent Chair,48960,8,0.15,9650.78,Credit Card
+ORD202404150785,15-04-2024,CUST10524,Vikram Verma,Home Office,India,Tamil Nadu,Chennai,South,Technology,Computers,Business Laptop,53099.1,1,0.1,299.09,Debit Card
+ORD202404160198,16-04-2024,CUST10509,Varun Jain,Consumer,India,Maharashtra,Nagpur,West,Technology,Phones,Feature Phone,1999.2,1,0.2,-115.11,Debit Card
+ORD202404160276,16-04-2024,CUST10211,Varun Mehta,Consumer,India,Tamil Nadu,Chennai,South,Furniture,Tables,Wooden Table,16150,2,0.05,1611.01,UPI
+ORD202404180578,18-04-2024,CUST10445,Neha Pillai,Consumer,India,Maharashtra,Mumbai,West,Home & Kitchen,Cookware,Non-stick Pan,1349.1,1,0.1,258.83,COD
+ORD202404180778,18-04-2024,CUST10392,Aarav Pillai,Home Office,India,Punjab,Ludhiana,North,Technology,Audio,Bluetooth Speaker,2849.05,1,0.05,614.46,COD
+ORD202404210133,21-04-2024,CUST10255,Rohan Rao,Corporate,India,Bihar,Patna,East,Technology,Computers,Tablet,212491.5,10,0.15,8169.55,Debit Card
+ORD202404210180,21-04-2024,CUST10160,Rahul Khan,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Bedding,Comforter,3149.1,1,0.1,607.29,Credit Card
+ORD202404220955,22-04-2024,CUST10338,Zoya Shah,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Chairs,Dining Chair,2380,1,0.15,357.5,Debit Card
+ORD202404230798,23-04-2024,CUST10160,Rahul Khan,Consumer,India,Maharashtra,Pune,West,Technology,Accessories,Wireless Mouse,1618.2,2,0.1,449.46,Credit Card
+ORD202404250099,25-04-2024,CUST10033,Zoya Reddy,Corporate,India,Tamil Nadu,Chennai,South,Furniture,Tables,Wooden Table,7225,1,0.15,469.64,Debit Card
+ORD202404300395,30-04-2024,CUST10135,Anika Nair,Home Office,India,Maharashtra,Mumbai,West,Office Supplies,Paper,Notebook Pack,810,2,0.1,168.52,Debit Card
+ORD202405010861,01-05-2024,CUST10564,Sanjay Singh,Consumer,India,Tamil Nadu,Chennai,South,Technology,Accessories,Mechanical Keyboard,6298.2,2,0.1,771.16,UPI
+ORD202405020019,02-05-2024,CUST10008,Rahul Joshi,Consumer,India,Tamil Nadu,Chennai,South,Technology,Accessories,Mechanical Keyboard,6648.1,2,0.05,1567.1,Debit Card
+ORD202405020319,02-05-2024,CUST10081,Aditi Iyer,Corporate,India,Kerala,Kochi,South,Furniture,Chairs,Dining Chair,5320,2,0.05,1240.82,COD
+ORD202405020503,02-05-2024,CUST10383,Priya Kapoor,Consumer,India,Chhattisgarh,Raipur,Central,Furniture,Storage,Bookshelf,10800,2,0,2317.1,Debit Card
+ORD202405030258,03-05-2024,CUST10403,Rohan Iyer,Consumer,India,Delhi,New Delhi,North,Office Supplies,Paper,Notebook Pack,382.5,1,0.15,56.07,UPI
+ORD202405030887,03-05-2024,CUST10533,Ira Mishra,Consumer,India,Delhi,New Delhi,North,Furniture,Home Decor,Floor Lamp,8640,4,0.1,1320.12,UPI
+ORD202405040080,04-05-2024,CUST10588,Ira Naidu,Corporate,India,Karnataka,Bengaluru,South,Home & Kitchen,Bedding,Cotton Bedsheet Set,1709.05,1,0.05,422.96,UPI
+ORD202405040328,04-05-2024,CUST10360,Aarav Khan,Corporate,India,Delhi,New Delhi,North,Technology,Phones,Feature Phone,2249.1,1,0.1,277.68,Credit Card
+ORD202405040731,04-05-2024,CUST10501,Kavya Rao,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Technology,Computers,Tablet,44998.2,2,0.1,2849.35,Debit Card
+ORD202405050067,05-05-2024,CUST10274,Samiksha Khan,Consumer,India,Gujarat,Surat,West,Furniture,Chairs,Dining Chair,13440,6,0.2,517.96,Net Banking
+ORD202405050484,05-05-2024,CUST10482,Priya Jain,Corporate,India,Madhya Pradesh,Indore,Central,Office Supplies,Organizers,Cable Organizer,897,4,0.25,99.33,Net Banking
+ORD202405060240,06-05-2024,CUST10561,Dev Patel,Consumer,India,Gujarat,Surat,West,Technology,Computers,Desktop Computer,85998,2,0,14004.2,Debit Card
+ORD202405060627,06-05-2024,CUST10362,Rohan Bose,Home Office,India,Karnataka,Bengaluru,South,Office Supplies,Organizers,Desk Organizer,2080,4,0.2,307.28,UPI
+ORD202405100297,10-05-2024,CUST10588,Ira Naidu,Consumer,India,Gujarat,Surat,West,Furniture,Tables,Wooden Table,6375,1,0.25,-64.84,Credit Card
+ORD202405100422,10-05-2024,CUST10521,Sneha Sharma,Consumer,India,Gujarat,Ahmedabad,West,Office Supplies,Paper,Notebook Pack,810,2,0.1,123.83,Debit Card
+ORD202405100574,10-05-2024,CUST10308,Akash Mehta,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Bedding,Cotton Bedsheet Set,2698.5,2,0.25,133.25,Credit Card
+ORD202405110229,11-05-2024,CUST10265,Ira Patel,Corporate,India,Madhya Pradesh,Indore,Central,Technology,Phones,Android Smartphone,21849.05,1,0.05,3047.95,Credit Card
+ORD202405110952,11-05-2024,CUST10496,Aditya Joshi,Corporate,India,Kerala,Kochi,South,Home & Kitchen,Appliances,Mixer Grinder,2969.1,1,0.1,414.41,Debit Card
+ORD202405120354,12-05-2024,CUST10183,Dev Chopra,Corporate,India,Delhi,New Delhi,North,Furniture,Home Decor,Floor Lamp,2160,1,0.1,566.1,Debit Card
+ORD202405130551,13-05-2024,CUST10421,Ira Shah,Corporate,India,Odisha,Bhubaneswar,East,Home & Kitchen,Lighting,LED Desk Lamp,849.15,1,0.15,168.34,Debit Card
+ORD202405150164,15-05-2024,CUST10397,Manish Iyer,Corporate,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Bedding,Cotton Bedsheet Set,5397,4,0.25,460.64,UPI
+ORD202405150223,15-05-2024,CUST10178,Akash Shah,Consumer,India,Maharashtra,Mumbai,West,Technology,Phones,Feature Phone,6372.45,3,0.15,70.43,COD
+ORD202405150263,15-05-2024,CUST10183,Dev Chopra,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Storage,Filing Cabinet,14040,2,0.1,2083.56,Credit Card
+ORD202405160046,16-05-2024,CUST10046,Samiksha Shah,Consumer,India,Odisha,Bhubaneswar,East,Technology,Audio,Wireless Headphones,11997.6,3,0.2,-133.96,Debit Card
+ORD202405190472,19-05-2024,CUST10469,Aditi Mishra,Corporate,India,Bihar,Patna,East,Office Supplies,Writing,Marker Set,306,1,0.15,24.74,UPI
+ORD202405190697,19-05-2024,CUST10481,Kavya Kulkarni,Consumer,India,Delhi,New Delhi,North,Furniture,Chairs,Accent Chair,19440,3,0.1,3336.64,Credit Card
+ORD202405210909,21-05-2024,CUST10119,Priya Chopra,Consumer,India,Bihar,Patna,East,Office Supplies,Writing,Marker Set,720,2,0,167.39,Credit Card
+ORD202405220431,22-05-2024,CUST10193,Rahul Gupta,Consumer,India,Bihar,Patna,East,Home & Kitchen,Appliances,Electric Kettle,11041.5,10,0.15,566.42,UPI
+ORD202405220852,22-05-2024,CUST10108,Manish Das,Home Office,India,Tamil Nadu,Chennai,South,Technology,Accessories,Wireless Mouse,674.25,1,0.25,46.62,COD
+ORD202405240463,24-05-2024,CUST10426,Kavya Mehta,Consumer,India,Bihar,Patna,East,Technology,Audio,Bluetooth Speaker,17994,6,0,3310.82,COD
+ORD202405240807,24-05-2024,CUST10165,Dev Chopra,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Organizers,Desk Organizer,585,1,0.1,125.68,Credit Card
+ORD202405260412,26-05-2024,CUST10101,Akash Joshi,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Technology,Accessories,USB-C Hub,1979.1,1,0.1,427.63,UPI
+ORD202405290024,29-05-2024,CUST10263,Nisha Joshi,Consumer,India,Gujarat,Surat,West,Furniture,Tables,Coffee Table,7650,2,0.15,1215.45,Credit Card
+ORD202405290742,29-05-2024,CUST10232,Sneha Gupta,Consumer,India,Gujarat,Ahmedabad,West,Home & Kitchen,Appliances,Electric Kettle,8313.6,8,0.2,60.61,Credit Card
+ORD202405300427,30-05-2024,CUST10153,Tanvi Joshi,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Lighting,LED Desk Lamp,799.2,1,0.2,65.5,Debit Card
+ORD202406010289,01-06-2024,CUST10375,Sneha Mehta,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Writing,Marker Set,720,2,0,180.68,UPI
+ORD202406020325,02-06-2024,CUST10485,Varun Khan,Corporate,India,Rajasthan,Jaipur,North,Home & Kitchen,Lighting,LED Desk Lamp,7992,10,0.2,898.15,Debit Card
+ORD202406020394,02-06-2024,CUST10167,Aarav Gupta,Corporate,India,Rajasthan,Jaipur,North,Furniture,Home Decor,Wall Art Set,1530,1,0.15,283.01,Debit Card
+ORD202406030966,03-06-2024,CUST10038,Meera Chopra,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Cookware,Cookware Set,10962.45,3,0.15,1466.31,Credit Card
+ORD202406050696,05-06-2024,CUST10567,Zoya Khan,Corporate,India,Punjab,Ludhiana,North,Home & Kitchen,Lighting,Smart Bulb Pack,2158.2,2,0.1,388.14,UPI
+ORD202406060123,06-06-2024,CUST10399,Anika Shah,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Chairs,Dining Chair,4760,2,0.15,175.23,UPI
+ORD202406060665,06-06-2024,CUST10339,Varun Sharma,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Lighting,LED Desk Lamp,5994,6,0,1583.02,Credit Card
+ORD202406070305,07-06-2024,CUST10437,Tanvi Jain,Corporate,India,Punjab,Ludhiana,North,Office Supplies,Organizers,Cable Organizer,627.9,3,0.3,6.68,UPI
+ORD202406080745,08-06-2024,CUST10130,Pooja Patel,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Paper,Sticky Notes Pack,486,3,0.1,113.65,Debit Card
+ORD202406120090,12-06-2024,CUST10416,Dev Naidu,Corporate,India,West Bengal,Kolkata,East,Furniture,Storage,Wardrobe,52725,3,0.05,4544.88,UPI
+ORD202406140037,14-06-2024,CUST10205,Aishwarya Rao,Corporate,India,Gujarat,Surat,West,Office Supplies,Paper,Sticky Notes Pack,324,2,0.1,82.88,Debit Card
+ORD202406150825,15-06-2024,CUST10556,Priya Jain,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Bedding,Cotton Bedsheet Set,14392,10,0.2,497.01,Debit Card
+ORD202406170675,17-06-2024,CUST10259,Aditya Rao,Consumer,India,Maharashtra,Pune,West,Home & Kitchen,Cookware,Non-stick Pan,3822.45,3,0.15,447.86,UPI
+ORD202406180035,18-06-2024,CUST10449,Karan Singh,Consumer,India,Bihar,Patna,East,Technology,Audio,Wireless Headphones,15996.8,4,0.2,204.13,UPI
+ORD202406180252,18-06-2024,CUST10077,Priya Nair,Corporate,India,Odisha,Bhubaneswar,East,Technology,Phones,Feature Phone,2374.05,1,0.05,350.33,Credit Card
+ORD202406180409,18-06-2024,CUST10585,Tanvi Jain,Consumer,India,Rajasthan,Jaipur,North,Furniture,Storage,Filing Cabinet,33150,5,0.15,1674.39,UPI
+ORD202406200622,20-06-2024,CUST10001,Ishaan Sharma,Consumer,India,Kerala,Kochi,South,Office Supplies,Binders,Document Folder,1200,10,0.2,59.74,COD
+ORD202406200869,20-06-2024,CUST10151,Tanvi Mehta,Corporate,India,Gujarat,Ahmedabad,West,Office Supplies,Binders,Document Folder,270,2,0.1,48.98,Debit Card
+ORD202406210023,21-06-2024,CUST10079,Aarav Jain,Consumer,India,Gujarat,Ahmedabad,West,Technology,Phones,Feature Phone,5997.6,3,0.2,264.53,UPI
+ORD202406210942,21-06-2024,CUST10029,Riya Kapoor,Consumer,India,Maharashtra,Pune,West,Technology,Computers,Desktop Computer,171996,4,0,20371.16,Net Banking
+ORD202406230461,23-06-2024,CUST10066,Aarav Gupta,Corporate,India,Gujarat,Ahmedabad,West,Furniture,Home Decor,Decorative Mirror,12160,4,0.05,3406.3,Credit Card
+ORD202406230474,23-06-2024,CUST10592,Aishwarya Kapoor,Home Office,India,Uttar Pradesh,Lucknow,North,Furniture,Home Decor,Decorative Mirror,4480,2,0.3,169.44,COD
+ORD202406240865,24-06-2024,CUST10209,Riya Sharma,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Paper,A4 Paper Ream,240,1,0.25,1.1,Debit Card
+ORD202406250730,25-06-2024,CUST10385,Neha Kapoor,Corporate,India,Maharashtra,Nagpur,West,Home & Kitchen,Lighting,Smart Bulb Pack,3237.3,3,0.1,312.8,UPI
+ORD202406260626,26-06-2024,CUST10424,Ishaan Chopra,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Cookware,Non-stick Pan,2398.4,2,0.2,298,Credit Card
+ORD202406270196,27-06-2024,CUST10576,Pooja Sharma,Corporate,India,Bihar,Patna,East,Technology,Accessories,Mechanical Keyboard,2974.15,1,0.15,268.65,Debit Card
+ORD202406270440,27-06-2024,CUST10155,Kabir Gupta,Corporate,India,Bihar,Patna,East,Technology,Phones,Android Smartphone,36798.4,2,0.2,393.08,UPI
+ORD202406280287,28-06-2024,CUST10084,Rohan Pillai,Corporate,India,Gujarat,Surat,West,Technology,Phones,Android Smartphone,55197.6,3,0.2,493.59,Debit Card
+ORD202406280631,28-06-2024,CUST10067,Ishaan Gupta,Consumer,India,Maharashtra,Nagpur,West,Technology,Phones,Android Smartphone,97745.75,5,0.15,-2843.82,COD
+ORD202406300233,30-06-2024,CUST10321,Aditi Jain,Consumer,India,Maharashtra,Mumbai,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,7196,4,0,2137.41,Credit Card
+ORD202406300525,30-06-2024,CUST10571,Varun Iyer,Corporate,India,West Bengal,Kolkata,East,Technology,Audio,Wireless Headphones,4249.15,1,0.15,385.58,UPI
+ORD202407010451,01-07-2024,CUST10452,Varun Das,Consumer,India,Delhi,New Delhi,North,Home & Kitchen,Appliances,Air Fryer,13998,2,0,3186.21,UPI
+ORD202407010679,01-07-2024,CUST10222,Ishaan Kulkarni,Corporate,India,Madhya Pradesh,Indore,Central,Technology,Audio,Bluetooth Speaker,9596.8,4,0.2,861.23,Debit Card
+ORD202407010991,01-07-2024,CUST10286,Karan Das,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Appliances,Mixer Grinder,3134.05,1,0.05,609.88,UPI
+ORD202407020560,02-07-2024,CUST10267,Ira Nair,Consumer,India,Kerala,Kochi,South,Office Supplies,Organizers,Desk Organizer,552.5,1,0.15,62.49,UPI
+ORD202407020810,02-07-2024,CUST10472,Aarav Chopra,Consumer,India,Kerala,Kochi,South,Office Supplies,Organizers,Desk Organizer,2730,6,0.3,-18.14,UPI
+ORD202407020981,02-07-2024,CUST10011,Karan Joshi,Consumer,India,Bihar,Patna,East,Technology,Computers,Tablet,24999,1,0,4040.87,UPI
+ORD202407030403,03-07-2024,CUST10239,Neha Jain,Corporate,India,Delhi,New Delhi,North,Furniture,Chairs,Ergonomic Office Chair,10400,2,0.2,1073.75,UPI
+ORD202407030814,03-07-2024,CUST10111,Nisha Verma,Home Office,India,Karnataka,Bengaluru,South,Home & Kitchen,Appliances,Electric Kettle,1234.05,1,0.05,317.15,Credit Card
+ORD202407050797,05-07-2024,CUST10482,Priya Jain,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Organizers,Cable Organizer,807.3,3,0.1,173.79,UPI
+ORD202407060673,06-07-2024,CUST10583,Riya Rao,Consumer,India,Maharashtra,Pune,West,Technology,Accessories,Mechanical Keyboard,15745.5,5,0.1,3280.29,UPI
+ORD202407080479,08-07-2024,CUST10380,Rahul Bose,Consumer,India,Maharashtra,Mumbai,West,Furniture,Home Decor,Decorative Mirror,3200,1,0,862.8,UPI
+ORD202407090500,09-07-2024,CUST10391,Anika Iyer,Consumer,India,Kerala,Kochi,South,Furniture,Storage,Filing Cabinet,7020,1,0.1,841.58,UPI
+ORD202407120563,12-07-2024,CUST10153,Tanvi Joshi,Consumer,India,Rajasthan,Jaipur,North,Furniture,Home Decor,Wall Art Set,1620,1,0.1,293.61,COD
+ORD202407120780,12-07-2024,CUST10584,Aditi Jain,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Paper,Notebook Pack,450,1,0,105.83,Debit Card
+ORD202407170406,17-07-2024,CUST10339,Varun Sharma,Corporate,India,Kerala,Kochi,South,Home & Kitchen,Cookware,Non-stick Pan,2548.3,2,0.15,452.04,Credit Card
+ORD202407180930,18-07-2024,CUST10590,Karan Iyer,Consumer,India,Uttar Pradesh,Lucknow,North,Office Supplies,Writing,Marker Set,342,1,0.05,100.42,Debit Card
+ORD202407190644,19-07-2024,CUST10206,Riya Deshmukh,Corporate,India,Delhi,New Delhi,North,Furniture,Storage,Bookshelf,13770,3,0.15,2202.78,Credit Card
+ORD202407220552,22-07-2024,CUST10087,Kabir Nair,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Lighting,LED Desk Lamp,999,1,0,287.91,Debit Card
+ORD202407220762,22-07-2024,CUST10486,Samiksha Sharma,Corporate,India,Gujarat,Ahmedabad,West,Technology,Accessories,USB-C Hub,6597,3,0,1298.72,Credit Card
+ORD202407220819,22-07-2024,CUST10358,Varun Mehta,Home Office,India,Kerala,Kochi,South,Home & Kitchen,Appliances,Air Fryer,10498.5,2,0.25,-132.87,COD
+ORD202407230130,23-07-2024,CUST10559,Diya Mishra,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Decorative Mirror,2560,1,0.2,400.33,UPI
+ORD202407230318,23-07-2024,CUST10241,Aarav Kapoor,Corporate,India,Punjab,Ludhiana,North,Technology,Accessories,Wireless Mouse,2876.8,4,0.2,316,Debit Card
+ORD202407230898,23-07-2024,CUST10201,Varun Das,Consumer,India,Telangana,Hyderabad,South,Office Supplies,Writing,Pen Set,675,3,0.1,147.82,Debit Card
+ORD202407240232,24-07-2024,CUST10351,Samiksha Banerjee,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Appliances,Electric Kettle,6170.25,5,0.05,794.81,UPI
+ORD202407250593,25-07-2024,CUST10450,Tanvi Gupta,Home Office,India,Maharashtra,Mumbai,West,Technology,Audio,Wireless Headphones,4999,1,0,936.02,Debit Card
+ORD202407250694,25-07-2024,CUST10279,Samiksha Singh,Corporate,India,Kerala,Kochi,South,Furniture,Storage,Wardrobe,33300,2,0.1,2803.11,Debit Card
+ORD202407260859,26-07-2024,CUST10410,Diya Deshmukh,Consumer,India,Punjab,Ludhiana,North,Home & Kitchen,Appliances,Air Fryer,5599.2,1,0.2,228.3,UPI
+ORD202407270565,27-07-2024,CUST10291,Aditi Pillai,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Writing,Premium Notebook,2200,10,0,720.19,UPI
+ORD202407270914,27-07-2024,CUST10141,Manish Khan,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Technology,Phones,Android Smartphone,19549.15,1,0.15,836.93,UPI
+ORD202407270926,27-07-2024,CUST10334,Sneha Gupta,Consumer,India,Tamil Nadu,Chennai,South,Furniture,Home Decor,Wall Art Set,1710,1,0.05,543.51,UPI
+ORD202407280482,28-07-2024,CUST10142,Meera Patel,Home Office,India,Uttar Pradesh,Lucknow,North,Furniture,Home Decor,Decorative Mirror,17280,6,0.1,4480.26,UPI
+ORD202408020373,02-08-2024,CUST10551,Aarav Pillai,Consumer,India,Madhya Pradesh,Indore,Central,Office Supplies,Organizers,Desk Organizer,1657.5,3,0.15,174.41,COD
+ORD202408020401,02-08-2024,CUST10215,Varun Sharma,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Home Decor,Decorative Mirror,7200,3,0.25,976.17,UPI
+ORD202408020727,02-08-2024,CUST10224,Aishwarya Naidu,Corporate,India,Delhi,New Delhi,North,Furniture,Storage,Filing Cabinet,39000,5,0,9748.83,COD
+ORD202408020976,02-08-2024,CUST10173,Sanjay Jain,Consumer,India,Uttar Pradesh,Lucknow,North,Technology,Computers,Tablet,24999,1,0,5810.92,UPI
+ORD202408040459,04-08-2024,CUST10536,Aarav Banerjee,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Accessories,Wireless Mouse,899,1,0,289.06,Credit Card
+ORD202408050607,05-08-2024,CUST10467,Dev Naidu,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Paper,Sticky Notes Pack,900,5,0,235.57,UPI
+ORD202408090857,09-08-2024,CUST10480,Rohan Banerjee,Corporate,India,Delhi,New Delhi,North,Home & Kitchen,Cookware,Cookware Set,3654.15,1,0.15,352.15,COD
+ORD202408100364,10-08-2024,CUST10080,Tanvi Rao,Corporate,India,Kerala,Kochi,South,Technology,Audio,Bluetooth Speaker,8547.15,3,0.05,1964.22,Credit Card
+ORD202408100753,10-08-2024,CUST10313,Karan Mehta,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Furniture,Home Decor,Decorative Mirror,12800,4,0,2698.56,Credit Card
+ORD202408100990,10-08-2024,CUST10384,Riya Verma,Consumer,India,Uttar Pradesh,Lucknow,North,Office Supplies,Writing,Premium Notebook,880,4,0,200.17,Debit Card
+ORD202408110113,11-08-2024,CUST10518,Diya Mishra,Consumer,India,Maharashtra,Pune,West,Home & Kitchen,Lighting,LED Desk Lamp,899.1,1,0.1,113.88,Credit Card
+ORD202408110346,11-08-2024,CUST10116,Pooja Bose,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Paper,A4 Paper Ream,1152,4,0.1,115.68,UPI
+ORD202408110685,11-08-2024,CUST10421,Ira Shah,Consumer,India,Kerala,Kochi,South,Furniture,Tables,Study Desk,42160,8,0.15,7162.91,Debit Card
+ORD202408120646,12-08-2024,CUST10004,Diya Gupta,Consumer,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Appliances,Mixer Grinder,5608.3,2,0.15,485.41,COD
+ORD202408140367,14-08-2024,CUST10157,Tanvi Shah,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Cookware,Non-stick Pan,2398.4,2,0.2,73.68,UPI
+ORD202408150495,15-08-2024,CUST10285,Rahul Shah,Consumer,India,Maharashtra,Nagpur,West,Home & Kitchen,Cookware,Cookware Set,4084.05,1,0.05,785,Net Banking
+ORD202408160827,16-08-2024,CUST10466,Kabir Kapoor,Consumer,India,Gujarat,Ahmedabad,West,Technology,Audio,Bluetooth Speaker,4798.4,2,0.2,311.67,COD
+ORD202408180062,18-08-2024,CUST10355,Tanvi Reddy,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Paper,Notebook Pack,337.5,1,0.25,2,Debit Card
+ORD202408180079,18-08-2024,CUST10305,Aditi Shah,Corporate,India,Delhi,New Delhi,North,Home & Kitchen,Bedding,Comforter,5248.5,2,0.25,361.39,UPI
+ORD202408180146,18-08-2024,CUST10551,Aarav Pillai,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Cookware,Non-stick Pan,1349.1,1,0.1,315.32,Credit Card
+ORD202408190533,19-08-2024,CUST10095,Rohan Joshi,Corporate,India,Chhattisgarh,Raipur,Central,Furniture,Storage,Wardrobe,14800,1,0.2,96.76,UPI
+ORD202408190635,19-08-2024,CUST10434,Anika Banerjee,Home Office,India,Uttar Pradesh,Lucknow,North,Technology,Accessories,Mechanical Keyboard,2974.15,1,0.15,255.9,Credit Card
+ORD202408190786,19-08-2024,CUST10394,Manish Banerjee,Corporate,India,Gujarat,Ahmedabad,West,Home & Kitchen,Appliances,Mixer Grinder,2474.25,1,0.25,-180.73,UPI
+ORD202408200910,20-08-2024,CUST10423,Priya Das,Corporate,India,Madhya Pradesh,Indore,Central,Furniture,Chairs,Accent Chair,7200,1,0,1497.11,Credit Card
+ORD202408220553,22-08-2024,CUST10092,Sneha Kulkarni,Home Office,India,Delhi,New Delhi,North,Office Supplies,Writing,Pen Set,450,2,0.1,81.64,UPI
+ORD202408220747,22-08-2024,CUST10313,Karan Mehta,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Organizers,Cable Organizer,1016.6,4,0.15,94.78,UPI
+ORD202408230295,23-08-2024,CUST10079,Aarav Jain,Consumer,India,Punjab,Ludhiana,North,Technology,Accessories,Wireless Mouse,764.15,1,0.15,165.72,Debit Card
+ORD202408240384,24-08-2024,CUST10238,Aditya Gupta,Consumer,India,Maharashtra,Mumbai,West,Office Supplies,Paper,Sticky Notes Pack,720,4,0,236.49,Credit Card
+ORD202408280253,28-08-2024,CUST10081,Aditi Iyer,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Cookware,Cookware Set,8598,2,0,1888.4,Debit Card
+ORD202408280707,28-08-2024,CUST10490,Dev Chopra,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Chairs,Dining Chair,11200,4,0,2593.27,Net Banking
+ORD202408280915,28-08-2024,CUST10451,Diya Reddy,Corporate,India,Telangana,Hyderabad,South,Furniture,Chairs,Dining Chair,10640,4,0.05,2020.04,UPI
+ORD202408290543,29-08-2024,CUST10434,Anika Banerjee,Consumer,India,Gujarat,Ahmedabad,West,Technology,Accessories,Mechanical Keyboard,6648.1,2,0.05,1595.73,Credit Card
+ORD202409010290,01-09-2024,CUST10170,Saanvi Iyer,Corporate,India,Gujarat,Surat,West,Home & Kitchen,Appliances,Mixer Grinder,5938.2,2,0.1,814.17,UPI
+ORD202409060003,06-09-2024,CUST10129,Manish Deshmukh,Corporate,India,Delhi,New Delhi,North,Furniture,Tables,Coffee Table,3600,1,0.2,201.59,UPI
+ORD202409060688,06-09-2024,CUST10082,Zoya Kapoor,Consumer,India,Bihar,Patna,East,Home & Kitchen,Bedding,Cotton Bedsheet Set,1709.05,1,0.05,261.15,Net Banking
+ORD202409080621,08-09-2024,CUST10551,Aarav Pillai,Home Office,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Cookware,Non-stick Pan,4497,4,0.25,244.65,Debit Card
+ORD202409080845,08-09-2024,CUST10075,Diya Mishra,Consumer,India,Bihar,Patna,East,Office Supplies,Writing,Marker Set,342,1,0.05,54.39,UPI
+ORD202409090127,09-09-2024,CUST10508,Manish Mehta,Consumer,India,Delhi,New Delhi,North,Home & Kitchen,Cookware,Non-stick Pan,1124.25,1,0.25,15.75,Debit Card
+ORD202409100377,10-09-2024,CUST10543,Sneha Deshmukh,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Appliances,Mixer Grinder,5938.2,2,0.1,608.86,UPI
+ORD202409100529,10-09-2024,CUST10241,Aarav Kapoor,Corporate,India,Chhattisgarh,Raipur,Central,Furniture,Chairs,Dining Chair,2800,1,0,631.06,UPI
+ORD202409100741,10-09-2024,CUST10080,Tanvi Rao,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Floor Lamp,2400,1,0,857.51,Debit Card
+ORD202409110711,11-09-2024,CUST10378,Ishaan Bose,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Appliances,Mixer Grinder,24742.5,10,0.25,31.34,UPI
+ORD202409120183,12-09-2024,CUST10097,Aditi Pillai,Consumer,India,Gujarat,Surat,West,Furniture,Chairs,Ergonomic Office Chair,18200,4,0.3,-1213.94,COD
+ORD202409120338,12-09-2024,CUST10168,Sneha Gupta,Corporate,India,Karnataka,Bengaluru,South,Home & Kitchen,Appliances,Electric Kettle,1104.15,1,0.15,115.74,Debit Card
+ORD202409150115,15-09-2024,CUST10363,Karan Rao,Consumer,India,Karnataka,Bengaluru,South,Furniture,Storage,Wardrobe,35150,2,0.05,5803.72,UPI
+ORD202409150702,15-09-2024,CUST10310,Rahul Banerjee,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Bedding,Comforter,10497,4,0.25,831.56,UPI
+ORD202409160048,16-09-2024,CUST10038,Meera Chopra,Corporate,India,Delhi,New Delhi,North,Office Supplies,Binders,Ring Binder Pack,2280,5,0.05,307.63,UPI
+ORD202409160511,16-09-2024,CUST10045,Tanvi Kulkarni,Consumer,India,Maharashtra,Mumbai,West,Furniture,Chairs,Accent Chair,5400,1,0.25,72.2,UPI
+ORD202409160870,16-09-2024,CUST10374,Ira Mehta,Consumer,India,Bihar,Patna,East,Office Supplies,Binders,Document Folder,127.5,1,0.15,20.97,UPI
+ORD202409190558,19-09-2024,CUST10075,Diya Mishra,Consumer,India,Maharashtra,Pune,West,Furniture,Storage,Bookshelf,9720,2,0.1,1456.95,Debit Card
+ORD202409200304,20-09-2024,CUST10194,Rohan Gupta,Consumer,India,Maharashtra,Mumbai,West,Furniture,Chairs,Dining Chair,7140,3,0.15,476.43,UPI
+ORD202409210590,21-09-2024,CUST10349,Samiksha Singh,Corporate,India,Maharashtra,Pune,West,Office Supplies,Writing,Premium Notebook,935,5,0.15,100.12,UPI
+ORD202409220925,22-09-2024,CUST10264,Neha Naidu,Consumer,India,Bihar,Patna,East,Furniture,Tables,Study Desk,5580,1,0.1,506.92,UPI
+ORD202409230438,23-09-2024,CUST10063,Aditya Jain,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Computers,Tablet,199992,10,0.2,5480.66,UPI
+ORD202409230835,23-09-2024,CUST10053,Saanvi Bose,Consumer,India,Gujarat,Surat,West,Furniture,Chairs,Ergonomic Office Chair,11050,2,0.15,635.27,UPI
+ORD202409240226,24-09-2024,CUST10306,Nisha Nair,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Technology,Computers,Tablet,47498.1,2,0.05,4136.62,UPI
+ORD202409240313,24-09-2024,CUST10180,Aishwarya Sharma,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Storage,Wardrobe,88800,6,0.2,6565.81,COD
+ORD202409240879,24-09-2024,CUST10310,Rahul Banerjee,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Bedding,Cotton Bedsheet Set,5127.15,3,0.05,853.65,Credit Card
+ORD202409250918,25-09-2024,CUST10222,Ishaan Kulkarni,Corporate,India,Odisha,Bhubaneswar,East,Home & Kitchen,Lighting,LED Desk Lamp,3596.4,4,0.1,929.12,Net Banking
+ORD202409270562,27-09-2024,CUST10530,Aditya Jain,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Organizers,Desk Organizer,975,2,0.25,55.22,Credit Card
+ORD202409270856,27-09-2024,CUST10304,Aditi Kulkarni,Corporate,India,Bihar,Patna,East,Technology,Accessories,USB-C Hub,1539.3,1,0.3,-102.46,UPI
+ORD202409280947,28-09-2024,CUST10482,Priya Jain,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Bedding,Cotton Bedsheet Set,1439.2,1,0.2,220.37,COD
+ORD202410030817,03-10-2024,CUST10259,Aditya Rao,Consumer,India,Maharashtra,Nagpur,West,Technology,Computers,Desktop Computer,81698.1,2,0.05,12026.69,COD
+ORD202410030854,03-10-2024,CUST10175,Varun Deshmukh,Home Office,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Cookware,Non-stick Pan,1499,1,0,392.41,COD
+ORD202410060014,06-10-2024,CUST10317,Riya Mishra,Home Office,India,Bihar,Patna,East,Furniture,Tables,Wooden Table,15300,2,0.1,992.4,Debit Card
+ORD202410060415,06-10-2024,CUST10153,Tanvi Joshi,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Chairs,Ergonomic Office Chair,11700,2,0.1,1438.48,Net Banking
+ORD202410070383,07-10-2024,CUST10156,Sneha Banerjee,Corporate,India,Gujarat,Ahmedabad,West,Technology,Accessories,Wireless Mouse,3056.6,4,0.15,427.5,Credit Card
+ORD202410070763,07-10-2024,CUST10197,Kavya Joshi,Home Office,India,Tamil Nadu,Chennai,South,Furniture,Tables,Wooden Table,38250,5,0.1,4532.47,Debit Card
+ORD202410080114,08-10-2024,CUST10549,Sanjay Sharma,Home Office,India,Maharashtra,Mumbai,West,Home & Kitchen,Appliances,Mixer Grinder,17814.6,6,0.1,868.21,Debit Card
+ORD202410080848,08-10-2024,CUST10432,Sneha Naidu,Consumer,India,Telangana,Hyderabad,South,Technology,Phones,Feature Phone,2499,1,0,256.14,Debit Card
+ORD202410090311,09-10-2024,CUST10410,Diya Deshmukh,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Appliances,Air Fryer,5949.15,1,0.15,720.95,Credit Card
+ORD202410090486,09-10-2024,CUST10115,Diya Patel,Corporate,India,Kerala,Kochi,South,Technology,Accessories,USB-C Hub,17592,8,0,4192.44,Debit Card
+ORD202410120475,12-10-2024,CUST10015,Nisha Singh,Corporate,India,Uttar Pradesh,Lucknow,North,Technology,Phones,Feature Phone,3998.4,2,0.2,51.37,UPI
+ORD202410120521,12-10-2024,CUST10151,Tanvi Mehta,Corporate,India,Gujarat,Ahmedabad,West,Furniture,Storage,Wardrobe,31450,2,0.15,42.31,UPI
+ORD202410130624,13-10-2024,CUST10443,Manish Khan,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Binders,Document Folder,1020,8,0.15,102.74,Debit Card
+ORD202410130653,13-10-2024,CUST10130,Pooja Patel,Corporate,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Appliances,Air Fryer,6299.1,1,0.1,805.59,UPI
+ORD202410140920,14-10-2024,CUST10281,Arjun Nair,Consumer,India,Uttar Pradesh,Lucknow,North,Office Supplies,Binders,Document Folder,142.5,1,0.05,26.38,UPI
+ORD202410150341,15-10-2024,CUST10276,Rohan Mehta,Consumer,India,Telangana,Hyderabad,South,Furniture,Tables,Wooden Table,7650,1,0.1,710.44,UPI
+ORD202410150623,15-10-2024,CUST10047,Rahul Pillai,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Storage,Bookshelf,10800,2,0,1831.15,Credit Card
+ORD202410160174,16-10-2024,CUST10319,Aishwarya Sharma,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Cookware,Cookware Set,3869.1,1,0.1,416.11,Debit Card
+ORD202410160876,16-10-2024,CUST10127,Rohan Reddy,Consumer,India,West Bengal,Kolkata,East,Furniture,Home Decor,Wall Art Set,5400,3,0,1540.08,UPI
+ORD202410160911,16-10-2024,CUST10045,Tanvi Kulkarni,Consumer,India,Uttar Pradesh,Lucknow,North,Office Supplies,Writing,Premium Notebook,374,2,0.15,68.97,UPI
+ORD202410170154,17-10-2024,CUST10346,Samiksha Jain,Consumer,India,Gujarat,Surat,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,1529.15,1,0.15,274.69,UPI
+ORD202410170465,17-10-2024,CUST10427,Kavya Shah,Corporate,India,Kerala,Kochi,South,Technology,Accessories,Wireless Mouse,2427.3,3,0.1,491.98,Net Banking
+ORD202410170877,17-10-2024,CUST10515,Ananya Joshi,Corporate,India,Madhya Pradesh,Indore,Central,Technology,Computers,Tablet,17499.3,1,0.3,-2055.44,Credit Card
+ORD202410190616,19-10-2024,CUST10148,Rohan Pillai,Consumer,India,Maharashtra,Nagpur,West,Technology,Phones,Feature Phone,7497,3,0,1758.48,UPI
+ORD202410200811,20-10-2024,CUST10411,Rahul Mehta,Consumer,India,Gujarat,Surat,West,Home & Kitchen,Bedding,Comforter,5948.3,2,0.15,674.13,UPI
+ORD202410210919,21-10-2024,CUST10548,Sanjay Naidu,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Writing,Marker Set,504,2,0.3,-10.91,COD
+ORD202410220516,22-10-2024,CUST10571,Varun Iyer,Corporate,India,Maharashtra,Nagpur,West,Office Supplies,Organizers,Desk Organizer,1170,2,0.1,231.74,Debit Card
+ORD202410230065,23-10-2024,CUST10310,Rahul Banerjee,Consumer,India,Karnataka,Bengaluru,South,Office Supplies,Organizers,Desk Organizer,1950,3,0,464.46,Credit Card
+ORD202410230101,23-10-2024,CUST10240,Sneha Kulkarni,Corporate,India,Chhattisgarh,Raipur,Central,Office Supplies,Binders,Ring Binder Pack,480,1,0,121.17,UPI
+ORD202410240957,24-10-2024,CUST10166,Sneha Jain,Home Office,India,Odisha,Bhubaneswar,East,Home & Kitchen,Appliances,Air Fryer,15747.75,3,0.25,-1377.13,UPI
+ORD202410250962,25-10-2024,CUST10440,Aditi Gupta,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Organizers,Cable Organizer,1345.5,5,0.1,214.27,UPI
+ORD202410270883,27-10-2024,CUST10055,Pooja Verma,Corporate,India,Karnataka,Bengaluru,South,Technology,Audio,Bluetooth Speaker,5098.3,2,0.15,586.41,COD
+ORD202410280429,28-10-2024,CUST10064,Ira Khan,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Chairs,Accent Chair,10080,2,0.3,-399.59,UPI
+ORD202410290187,29-10-2024,CUST10511,Arjun Singh,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Cookware,Non-stick Pan,1499,1,0,311.68,COD
+ORD202410310142,31-10-2024,CUST10087,Kabir Nair,Corporate,India,Odisha,Bhubaneswar,East,Furniture,Tables,Study Desk,5580,1,0.1,528.93,Credit Card
+ORD202411010754,01-11-2024,CUST10363,Karan Rao,Consumer,India,Bihar,Patna,East,Technology,Audio,Wireless Headphones,4499.1,1,0.1,416.87,Credit Card
+ORD202411020532,02-11-2024,CUST10373,Varun Verma,Home Office,India,Delhi,New Delhi,North,Home & Kitchen,Cookware,Non-stick Pan,1499,1,0,478.89,Credit Card
+ORD202411030102,03-11-2024,CUST10282,Kavya Joshi,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Audio,Wireless Headphones,4499.1,1,0.1,697.65,Credit Card
+ORD202411030362,03-11-2024,CUST10228,Varun Jain,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Storage,Filing Cabinet,14040,2,0.1,1895.76,UPI
+ORD202411030405,03-11-2024,CUST10519,Diya Banerjee,Consumer,India,Maharashtra,Mumbai,West,Furniture,Storage,Wardrobe,33300,2,0.1,5308.55,COD
+ORD202411040126,04-11-2024,CUST10275,Anika Mishra,Consumer,India,Maharashtra,Nagpur,West,Technology,Audio,Wireless Headphones,8998.2,2,0.1,681.78,UPI
+ORD202411040599,04-11-2024,CUST10087,Kabir Nair,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Appliances,Air Fryer,66490.5,10,0.05,6017.04,Credit Card
+ORD202411040880,04-11-2024,CUST10313,Karan Mehta,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Appliances,Electric Kettle,4156.8,4,0.2,14.32,Credit Card
+ORD202411050660,05-11-2024,CUST10282,Kavya Joshi,Consumer,India,Gujarat,Surat,West,Office Supplies,Paper,Notebook Pack,405,1,0.1,95,Net Banking
+ORD202411060629,06-11-2024,CUST10227,Nisha Shah,Consumer,India,Kerala,Kochi,South,Office Supplies,Paper,Notebook Pack,765,2,0.15,105.07,UPI
+ORD202411090656,09-11-2024,CUST10436,Aishwarya Das,Home Office,India,Chhattisgarh,Raipur,Central,Technology,Phones,Feature Phone,4998,2,0,558.6,Credit Card
+ORD202411100784,10-11-2024,CUST10340,Karan Rao,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Storage,Filing Cabinet,15600,2,0,2281.24,Credit Card
+ORD202411110018,11-11-2024,CUST10047,Rahul Pillai,Consumer,India,Maharashtra,Pune,West,Furniture,Tables,Study Desk,31620,6,0.15,4410.44,UPI
+ORD202411110108,11-11-2024,CUST10268,Ira Gupta,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Cookware,Cookware Set,16336.2,4,0.05,2220.71,UPI
+ORD202411140413,14-11-2024,CUST10046,Samiksha Shah,Corporate,India,Maharashtra,Nagpur,West,Office Supplies,Organizers,Desk Organizer,552.5,1,0.15,86.67,UPI
+ORD202411150236,15-11-2024,CUST10133,Saanvi Banerjee,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Writing,Pen Set,950,4,0.05,216.81,Debit Card
+ORD202411150345,15-11-2024,CUST10331,Aditya Kulkarni,Consumer,India,Maharashtra,Pune,West,Furniture,Storage,Wardrobe,52725,3,0.05,10110.16,COD
+ORD202411160010,16-11-2024,CUST10438,Saanvi Sharma,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Writing,Premium Notebook,1320,6,0,444.11,UPI
+ORD202411160159,16-11-2024,CUST10377,Priya Singh,Home Office,India,Gujarat,Surat,West,Home & Kitchen,Appliances,Air Fryer,69990,10,0,13597.04,UPI
+ORD202411160561,16-11-2024,CUST10046,Samiksha Shah,Home Office,India,Kerala,Kochi,South,Office Supplies,Binders,Document Folder,120,1,0.2,12.7,Debit Card
+ORD202411160967,16-11-2024,CUST10242,Sanjay Deshmukh,Consumer,India,Kerala,Kochi,South,Furniture,Chairs,Dining Chair,7560,3,0.1,1292.49,UPI
+ORD202411170078,17-11-2024,CUST10178,Akash Shah,Consumer,India,Madhya Pradesh,Indore,Central,Office Supplies,Binders,Document Folder,427.5,3,0.05,77.81,Credit Card
+ORD202411190684,19-11-2024,CUST10013,Samiksha Sharma,Consumer,India,Telangana,Hyderabad,South,Technology,Computers,Tablet,84996.6,4,0.15,2903.25,UPI
+ORD202411200821,20-11-2024,CUST10117,Varun Iyer,Corporate,India,Tamil Nadu,Chennai,South,Office Supplies,Paper,Notebook Pack,2160,6,0.2,213.41,Debit Card
+ORD202411200986,20-11-2024,CUST10174,Rahul Naidu,Home Office,India,Chhattisgarh,Raipur,Central,Office Supplies,Paper,Sticky Notes Pack,288,2,0.2,38.52,UPI
+ORD202411220040,22-11-2024,CUST10102,Ananya Patel,Corporate,India,Odisha,Bhubaneswar,East,Technology,Accessories,Wireless Mouse,719.2,1,0.2,113.24,UPI
+ORD202411220137,22-11-2024,CUST10069,Varun Iyer,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Storage,Filing Cabinet,6240,1,0.2,625.18,Debit Card
+ORD202411230057,23-11-2024,CUST10356,Anika Deshmukh,Corporate,India,Madhya Pradesh,Indore,Central,Office Supplies,Binders,Ring Binder Pack,1080,3,0.25,39.72,Debit Card
+ORD202411250625,25-11-2024,CUST10350,Rohan Shah,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Tables,Coffee Table,22950,6,0.15,1218.62,UPI
+ORD202411260531,26-11-2024,CUST10587,Ananya Mishra,Consumer,India,Kerala,Kochi,South,Furniture,Tables,Study Desk,9920,2,0.2,827.67,UPI
+ORD202411260970,26-11-2024,CUST10381,Manish Mehta,Consumer,India,Rajasthan,Jaipur,North,Technology,Phones,Android Smartphone,68997,4,0.25,-6935.89,Debit Card
+ORD202411280360,28-11-2024,CUST10381,Manish Mehta,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Writing,Premium Notebook,396,2,0.1,83.97,Debit Card
+ORD202411280776,28-11-2024,CUST10086,Anika Shah,Home Office,India,Madhya Pradesh,Indore,Central,Office Supplies,Writing,Marker Set,1710,5,0.05,505.2,Debit Card
+ORD202412010088,01-12-2024,CUST10089,Meera Mehta,Consumer,India,Gujarat,Ahmedabad,West,Technology,Accessories,Mechanical Keyboard,3324.05,1,0.05,644.9,UPI
+ORD202412020666,02-12-2024,CUST10584,Aditi Jain,Home Office,India,West Bengal,Kolkata,East,Furniture,Tables,Wooden Table,25500,3,0,6265.52,Debit Card
+ORD202412030110,03-12-2024,CUST10236,Kabir Deshmukh,Consumer,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Bedding,Comforter,12596.4,4,0.1,2346.69,Debit Card
+ORD202412040243,04-12-2024,CUST10241,Aarav Kapoor,Consumer,India,Maharashtra,Nagpur,West,Furniture,Home Decor,Floor Lamp,11520,6,0.2,812.24,Debit Card
+ORD202412040284,04-12-2024,CUST10366,Anika Banerjee,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Storage,Filing Cabinet,7410,1,0.05,1226.51,UPI
+ORD202412050645,05-12-2024,CUST10593,Anika Iyer,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Organizers,Cable Organizer,269.1,1,0.1,63.37,UPI
+ORD202412070031,07-12-2024,CUST10084,Rohan Pillai,Consumer,India,Gujarat,Surat,West,Office Supplies,Binders,Document Folder,127.5,1,0.15,9.48,Credit Card
+ORD202412070787,07-12-2024,CUST10122,Samiksha Banerjee,Consumer,India,Maharashtra,Nagpur,West,Furniture,Tables,Wooden Table,16150,2,0.05,1823.19,Credit Card
+ORD202412080867,08-12-2024,CUST10022,Ira Chopra,Consumer,India,Punjab,Ludhiana,North,Furniture,Tables,Coffee Table,18000,4,0,4127.4,Credit Card
+ORD202412090407,09-12-2024,CUST10474,Riya Iyer,Corporate,India,Tamil Nadu,Chennai,South,Furniture,Storage,Filing Cabinet,22230,3,0.05,3835.21,UPI
+ORD202412120596,12-12-2024,CUST10323,Kabir Rao,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Cookware,Cookware Set,14616.6,4,0.15,1641.52,COD
+ORD202412130649,13-12-2024,CUST10568,Samiksha Reddy,Consumer,India,Delhi,New Delhi,North,Furniture,Tables,Study Desk,37200,6,0,9480.17,UPI
+ORD202412140066,14-12-2024,CUST10148,Rohan Pillai,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Organizers,Desk Organizer,2340,4,0.1,257.09,UPI
+ORD202412170323,17-12-2024,CUST10375,Sneha Mehta,Consumer,India,Tamil Nadu,Chennai,South,Technology,Audio,Wireless Headphones,8998.2,2,0.1,1152.69,Credit Card
+ORD202412180095,18-12-2024,CUST10066,Aarav Gupta,Consumer,India,Maharashtra,Pune,West,Furniture,Home Decor,Floor Lamp,2400,1,0,597.5,Debit Card
+ORD202412220508,22-12-2024,CUST10320,Rohan Deshmukh,Corporate,India,Gujarat,Surat,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,5397,3,0,1640.91,UPI
+ORD202412240013,24-12-2024,CUST10570,Sanjay Bose,Consumer,India,Punjab,Ludhiana,North,Technology,Audio,Bluetooth Speaker,7647.45,3,0.15,1067.48,UPI
+ORD202412240371,24-12-2024,CUST10453,Anika Kapoor,Consumer,India,Telangana,Hyderabad,South,Furniture,Tables,Wooden Table,25500,3,0,5915.7,UPI
+ORD202412250765,25-12-2024,CUST10429,Sneha Jain,Consumer,India,Maharashtra,Pune,West,Technology,Computers,Business Laptop,50149.15,1,0.15,-1395.31,Credit Card
+ORD202412260506,26-12-2024,CUST10148,Rohan Pillai,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Binders,Document Folder,225,2,0.25,0.07,UPI
+ORD202412260657,26-12-2024,CUST10236,Kabir Deshmukh,Consumer,India,Telangana,Hyderabad,South,Office Supplies,Organizers,Cable Organizer,538.2,2,0.1,127.89,UPI
+ORD202412280020,28-12-2024,CUST10074,Neha Khan,Consumer,India,Maharashtra,Pune,West,Home & Kitchen,Cookware,Cookware Set,20635.2,6,0.2,1250.62,Credit Card
+ORD202412310504,31-12-2024,CUST10168,Sneha Gupta,Consumer,India,Bihar,Patna,East,Home & Kitchen,Bedding,Cotton Bedsheet Set,1619.1,1,0.1,382.24,Credit Card
+ORD202501010834,01-01-2025,CUST10192,Aishwarya Verma,Consumer,India,Uttar Pradesh,Lucknow,North,Office Supplies,Writing,Premium Notebook,748,4,0.15,153.71,UPI
+ORD202501010892,01-01-2025,CUST10513,Anika Chopra,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Technology,Phones,Feature Phone,4998,2,0,605.74,Debit Card
+ORD202501010903,01-01-2025,CUST10070,Sanjay Das,Corporate,India,Rajasthan,Jaipur,North,Office Supplies,Paper,Sticky Notes Pack,288,2,0.2,49.09,Credit Card
+ORD202501020457,02-01-2025,CUST10499,Manish Naidu,Consumer,India,Telangana,Hyderabad,South,Technology,Accessories,Wireless Mouse,764.15,1,0.15,141.76,Credit Card
+ORD202501020757,02-01-2025,CUST10204,Diya Kulkarni,Consumer,India,West Bengal,Kolkata,East,Furniture,Tables,Study Desk,11780,2,0.05,1436.28,Debit Card
+ORD202501020922,02-01-2025,CUST10492,Varun Chopra,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Audio,Bluetooth Speaker,5998,2,0,1772.93,Credit Card
+ORD202501020996,02-01-2025,CUST10009,Aditi Chopra,Consumer,India,Kerala,Kochi,South,Office Supplies,Binders,Ring Binder Pack,432,1,0.1,42.24,Credit Card
+ORD202501030245,03-01-2025,CUST10321,Aditi Jain,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Chairs,Ergonomic Office Chair,27625,5,0.15,1833.52,UPI
+ORD202501030361,03-01-2025,CUST10464,Dev Patel,Consumer,India,Karnataka,Bengaluru,South,Furniture,Chairs,Dining Chair,7560,3,0.1,1542.83,UPI
+ORD202501030712,03-01-2025,CUST10047,Rahul Pillai,Home Office,India,Odisha,Bhubaneswar,East,Home & Kitchen,Appliances,Air Fryer,11898.3,2,0.15,1233.31,UPI
+ORD202501040205,04-01-2025,CUST10004,Diya Gupta,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Appliances,Mixer Grinder,3299,1,0,464.68,UPI
+ORD202501040794,04-01-2025,CUST10143,Arjun Reddy,Consumer,India,Gujarat,Surat,West,Home & Kitchen,Appliances,Mixer Grinder,13196,4,0,1574.18,Net Banking
+ORD202501070256,07-01-2025,CUST10464,Dev Patel,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Storage,Wardrobe,55500,4,0.25,-3420.04,Credit Card
+ORD202501110518,11-01-2025,CUST10184,Nisha Chopra,Consumer,India,Kerala,Kochi,South,Furniture,Home Decor,Wall Art Set,3060,2,0.15,425.92,Credit Card
+ORD202501110554,11-01-2025,CUST10175,Varun Deshmukh,Home Office,India,Gujarat,Ahmedabad,West,Furniture,Home Decor,Wall Art Set,6480,4,0.1,1272.85,UPI
+ORD202501130207,13-01-2025,CUST10192,Aishwarya Verma,Consumer,India,Punjab,Ludhiana,North,Home & Kitchen,Lighting,Smart Bulb Pack,1139.05,1,0.05,166.45,Debit Card
+ORD202501130491,13-01-2025,CUST10189,Kavya Das,Consumer,India,Maharashtra,Pune,West,Office Supplies,Binders,Ring Binder Pack,864,2,0.1,84.47,UPI
+ORD202501140628,14-01-2025,CUST10198,Meera Reddy,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Storage,Filing Cabinet,42120,6,0.1,2847.11,Debit Card
+ORD202501160184,16-01-2025,CUST10087,Kabir Nair,Consumer,India,Punjab,Ludhiana,North,Furniture,Chairs,Ergonomic Office Chair,5525,1,0.15,860.81,UPI
+ORD202501170218,17-01-2025,CUST10058,Akash Iyer,Consumer,India,Rajasthan,Jaipur,North,Furniture,Storage,Filing Cabinet,15600,2,0,4043.23,COD
+ORD202501170235,17-01-2025,CUST10015,Nisha Singh,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Technology,Computers,Tablet,21249.15,1,0.15,301.25,COD
+ORD202501180135,18-01-2025,CUST10401,Kavya Pillai,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Phones,Android Smartphone,43698.1,2,0.05,6396.38,UPI
+ORD202501180544,18-01-2025,CUST10116,Pooja Bose,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Appliances,Electric Kettle,4871.25,5,0.25,-8.19,Debit Card
+ORD202501190202,19-01-2025,CUST10165,Dev Chopra,Corporate,India,Madhya Pradesh,Indore,Central,Furniture,Storage,Filing Cabinet,62400,10,0.2,4282.55,Credit Card
+ORD202501190239,19-01-2025,CUST10262,Aarav Iyer,Corporate,India,Maharashtra,Pune,West,Furniture,Chairs,Accent Chair,28800,4,0,6226.86,Credit Card
+ORD202501190471,19-01-2025,CUST10226,Priya Verma,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Cookware,Cookware Set,3224.25,1,0.25,3.86,Credit Card
+ORD202501190647,19-01-2025,CUST10211,Varun Mehta,Consumer,India,Maharashtra,Mumbai,West,Office Supplies,Paper,A4 Paper Ream,576,2,0.1,37.4,Credit Card
+ORD202501200294,20-01-2025,CUST10229,Tanvi Gupta,Consumer,India,Bihar,Patna,East,Office Supplies,Organizers,Cable Organizer,1495,5,0,498.56,Credit Card
+ORD202501200728,20-01-2025,CUST10438,Saanvi Sharma,Corporate,India,Rajasthan,Jaipur,North,Furniture,Chairs,Dining Chair,22400,8,0,3524.55,Net Banking
+ORD202501210718,21-01-2025,CUST10391,Anika Iyer,Corporate,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Appliances,Mixer Grinder,3134.05,1,0.05,229.08,UPI
+ORD202501220300,22-01-2025,CUST10395,Varun Reddy,Consumer,India,Maharashtra,Mumbai,West,Technology,Audio,Bluetooth Speaker,8997,3,0,2665.14,Credit Card
+ORD202501230426,23-01-2025,CUST10336,Aishwarya Verma,Consumer,India,Maharashtra,Pune,West,Furniture,Tables,Wooden Table,31875,5,0.25,209.06,UPI
+ORD202501260444,26-01-2025,CUST10324,Ishaan Pillai,Home Office,India,Maharashtra,Pune,West,Furniture,Storage,Wardrobe,47175,3,0.15,974.76,UPI
+ORD202501260658,26-01-2025,CUST10026,Zoya Pillai,Consumer,India,Uttar Pradesh,Lucknow,North,Office Supplies,Paper,Notebook Pack,2137.5,5,0.05,444.06,Credit Card
+ORD202501280261,28-01-2025,CUST10429,Sneha Jain,Home Office,India,Uttar Pradesh,Lucknow,North,Office Supplies,Organizers,Cable Organizer,2152.8,8,0.1,309.3,Credit Card
+ORD202501300200,30-01-2025,CUST10449,Karan Singh,Corporate,India,Rajasthan,Jaipur,North,Home & Kitchen,Lighting,Smart Bulb Pack,2158.2,2,0.1,455.45,Debit Card
+ORD202502010212,01-02-2025,CUST10570,Sanjay Bose,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Organizers,Desk Organizer,2210,4,0.15,277.71,Credit Card
+ORD202502010375,01-02-2025,CUST10278,Sanjay Joshi,Corporate,India,Bihar,Patna,East,Furniture,Chairs,Dining Chair,11900,5,0.15,652.88,Credit Card
+ORD202502040805,04-02-2025,CUST10365,Manish Mishra,Home Office,India,Gujarat,Ahmedabad,West,Office Supplies,Organizers,Desk Organizer,1040,2,0.2,13.85,Debit Card
+ORD202502060379,06-02-2025,CUST10141,Manish Khan,Consumer,India,Karnataka,Bengaluru,South,Technology,Audio,Bluetooth Speaker,5398.2,2,0.1,694.93,Debit Card
+ORD202502080698,08-02-2025,CUST10383,Priya Kapoor,Consumer,India,West Bengal,Kolkata,East,Furniture,Home Decor,Floor Lamp,24000,10,0,8651.96,UPI
+ORD202502080779,08-02-2025,CUST10160,Rahul Khan,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Writing,Marker Set,342,1,0.05,62.72,COD
+ORD202502090139,09-02-2025,CUST10030,Arjun Joshi,Corporate,India,Delhi,New Delhi,North,Home & Kitchen,Lighting,Smart Bulb Pack,1139.05,1,0.05,201.01,Debit Card
+ORD202502090195,09-02-2025,CUST10104,Rohan Mehta,Consumer,India,Odisha,Bhubaneswar,East,Technology,Accessories,USB-C Hub,10555.2,6,0.2,1525.15,Debit Card
+ORD202502100085,10-02-2025,CUST10508,Manish Mehta,Consumer,India,West Bengal,Kolkata,East,Furniture,Chairs,Dining Chair,5600,2,0,1610.67,UPI
+ORD202502110129,11-02-2025,CUST10327,Meera Jain,Consumer,India,Kerala,Kochi,South,Technology,Phones,Feature Phone,1999.2,1,0.2,-37.78,Net Banking
+ORD202502120676,12-02-2025,CUST10200,Neha Bose,Consumer,India,Maharashtra,Mumbai,West,Office Supplies,Paper,Sticky Notes Pack,1026,6,0.05,279.39,Credit Card
+ORD202502120904,12-02-2025,CUST10059,Kavya Mishra,Consumer,India,Gujarat,Ahmedabad,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,1619.1,1,0.1,215.46,COD
+ORD202502140071,14-02-2025,CUST10053,Saanvi Bose,Consumer,India,Delhi,New Delhi,North,Office Supplies,Binders,Ring Binder Pack,864,2,0.1,131.31,COD
+ORD202502140550,14-02-2025,CUST10205,Aishwarya Rao,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Chairs,Ergonomic Office Chair,5525,1,0.15,828.56,Debit Card
+ORD202502150073,15-02-2025,CUST10513,Anika Chopra,Consumer,India,Maharashtra,Pune,West,Technology,Phones,Feature Phone,4998,2,0,1124.74,UPI
+ORD202502150166,15-02-2025,CUST10085,Arjun Shah,Corporate,India,Madhya Pradesh,Indore,Central,Technology,Phones,Android Smartphone,20699.1,1,0.1,71.36,COD
+ORD202502170895,17-02-2025,CUST10070,Sanjay Das,Consumer,India,Rajasthan,Jaipur,North,Technology,Computers,Tablet,18749.25,1,0.25,-671.26,Debit Card
+ORD202502180888,18-02-2025,CUST10496,Aditya Joshi,Home Office,India,Uttar Pradesh,Lucknow,North,Office Supplies,Organizers,Desk Organizer,1105,2,0.15,86.6,COD
+ORD202502190538,19-02-2025,CUST10245,Dev Banerjee,Consumer,India,Delhi,New Delhi,North,Furniture,Tables,Study Desk,11160,2,0.1,1518.41,Debit Card
+ORD202502190733,19-02-2025,CUST10021,Saanvi Patel,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Cookware,Non-stick Pan,5696.2,4,0.05,1308.43,UPI
+ORD202502210927,21-02-2025,CUST10384,Riya Verma,Consumer,India,West Bengal,Kolkata,East,Furniture,Tables,Study Desk,4650,1,0.25,349.5,UPI
+ORD202502230844,23-02-2025,CUST10301,Pooja Bose,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Organizers,Desk Organizer,520,1,0.2,36.46,UPI
+ORD202502240077,24-02-2025,CUST10514,Aishwarya Jain,Corporate,India,Kerala,Kochi,South,Furniture,Tables,Coffee Table,4275,1,0.05,984.16,Credit Card
+ORD202502240299,24-02-2025,CUST10147,Ishaan Pillai,Corporate,India,Rajasthan,Jaipur,North,Office Supplies,Writing,Premium Notebook,495,3,0.25,45.05,UPI
+ORD202502260316,26-02-2025,CUST10362,Rohan Bose,Consumer,India,Maharashtra,Mumbai,West,Office Supplies,Writing,Marker Set,306,1,0.15,57.36,UPI
+ORD202502260336,26-02-2025,CUST10267,Ira Nair,Consumer,India,Maharashtra,Mumbai,West,Furniture,Tables,Study Desk,5580,1,0.1,955.79,Credit Card
+ORD202502260575,26-02-2025,CUST10097,Aditi Pillai,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Binders,Document Folder,255,2,0.15,16.52,Debit Card
+ORD202502280017,28-02-2025,CUST10280,Tanvi Chopra,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Furniture,Storage,Wardrobe,15725,1,0.15,1030.6,Credit Card
+ORD202502280213,28-02-2025,CUST10154,Saanvi Kulkarni,Consumer,India,Chhattisgarh,Raipur,Central,Furniture,Chairs,Accent Chair,23040,4,0.2,3489.33,COD
+ORD202502280296,28-02-2025,CUST10339,Varun Sharma,Corporate,India,Kerala,Kochi,South,Home & Kitchen,Lighting,LED Desk Lamp,2547.45,3,0.15,356.71,UPI
+ORD202502280498,28-02-2025,CUST10143,Arjun Reddy,Corporate,India,Maharashtra,Nagpur,West,Technology,Accessories,Mechanical Keyboard,5598.4,2,0.2,941.26,UPI
+ORD202502280594,28-02-2025,CUST10370,Rohan Kapoor,Consumer,India,Uttar Pradesh,Lucknow,North,Technology,Audio,Bluetooth Speaker,2699.1,1,0.1,576.32,COD
+ORD202502280829,28-02-2025,CUST10248,Meera Gupta,Consumer,India,Tamil Nadu,Chennai,South,Furniture,Chairs,Ergonomic Office Chair,5850,1,0.1,1166.13,COD
+ORD202503020075,02-03-2025,CUST10598,Kavya Das,Consumer,India,Maharashtra,Mumbai,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,4857.3,3,0.1,625.97,Debit Card
+ORD202503040746,04-03-2025,CUST10469,Aditi Mishra,Consumer,India,Bihar,Patna,East,Home & Kitchen,Bedding,Comforter,25192.8,8,0.1,4675.41,Net Banking
+ORD202503070933,07-03-2025,CUST10518,Diya Mishra,Home Office,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Appliances,Mixer Grinder,16495,5,0,1928.44,UPI
+ORD202503090042,09-03-2025,CUST10114,Akash Gupta,Corporate,India,Uttar Pradesh,Lucknow,North,Office Supplies,Paper,A4 Paper Ream,272,1,0.15,24.4,UPI
+ORD202503100515,10-03-2025,CUST10220,Nisha Verma,Consumer,India,Tamil Nadu,Chennai,South,Furniture,Storage,Bookshelf,9720,2,0.1,1306.51,UPI
+ORD202503100791,10-03-2025,CUST10493,Aditya Banerjee,Corporate,India,Tamil Nadu,Chennai,South,Office Supplies,Writing,Premium Notebook,1188,6,0.1,251.75,Credit Card
+ORD202503120051,12-03-2025,CUST10171,Diya Bose,Corporate,India,Bihar,Patna,East,Home & Kitchen,Cookware,Cookware Set,11607.3,3,0.1,1793.63,Debit Card
+ORD202503120186,12-03-2025,CUST10177,Anika Mehta,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Binders,Document Folder,750,5,0,207.51,UPI
+ORD202503120693,12-03-2025,CUST10479,Manish Rao,Consumer,India,Delhi,New Delhi,North,Technology,Audio,Bluetooth Speaker,8547.15,3,0.05,1779.51,Net Banking
+ORD202503170124,17-03-2025,CUST10460,Ira Das,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Cookware,Non-stick Pan,1349.1,1,0.1,240.91,Debit Card
+ORD202503170917,17-03-2025,CUST10546,Aditya Pillai,Consumer,India,West Bengal,Kolkata,East,Furniture,Storage,Bookshelf,27540,6,0.15,1915.97,COD
+ORD202503180633,18-03-2025,CUST10417,Manish Kapoor,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Lighting,Smart Bulb Pack,2398,2,0,673.77,UPI
+ORD202503190695,19-03-2025,CUST10160,Rahul Khan,Corporate,India,Kerala,Kochi,South,Furniture,Home Decor,Wall Art Set,7650,5,0.15,1924.09,Credit Card
+ORD202503190863,19-03-2025,CUST10112,Nisha Das,Corporate,India,Uttar Pradesh,Lucknow,North,Furniture,Tables,Wooden Table,8500,1,0,1421.75,UPI
+ORD202503220841,22-03-2025,CUST10525,Nisha Nair,Home Office,India,Delhi,New Delhi,North,Office Supplies,Writing,Pen Set,600,3,0.2,59.61,Credit Card
+ORD202503240246,24-03-2025,CUST10275,Anika Mishra,Corporate,India,Maharashtra,Nagpur,West,Office Supplies,Binders,Ring Binder Pack,432,1,0.1,60.01,COD
+ORD202503250663,25-03-2025,CUST10461,Akash Deshmukh,Corporate,India,Maharashtra,Mumbai,West,Office Supplies,Writing,Premium Notebook,1045,5,0.05,293.43,Credit Card
+ORD202503250938,25-03-2025,CUST10181,Varun Nair,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Paper,A4 Paper Ream,288,1,0.1,35.71,COD
+ORD202503260992,26-03-2025,CUST10271,Dev Reddy,Consumer,India,Bihar,Patna,East,Office Supplies,Binders,Document Folder,510,4,0.15,44.05,Net Banking
+ORD202503280081,28-03-2025,CUST10263,Nisha Joshi,Corporate,India,Delhi,New Delhi,North,Technology,Phones,Feature Phone,2124.15,1,0.15,116.1,UPI
+ORD202503280897,28-03-2025,CUST10384,Riya Verma,Consumer,India,Maharashtra,Mumbai,West,Technology,Phones,Android Smartphone,62097.3,3,0.1,7044.44,Credit Card
+ORD202503290344,29-03-2025,CUST10254,Aditi Patel,Corporate,India,Maharashtra,Pune,West,Technology,Audio,Bluetooth Speaker,4198.6,2,0.3,-78.95,Debit Card
+ORD202503300411,30-03-2025,CUST10519,Diya Banerjee,Consumer,India,Kerala,Kochi,South,Technology,Accessories,Mechanical Keyboard,17844.9,6,0.15,2601.93,Debit Card
+ORD202503310931,31-03-2025,CUST10420,Sanjay Naidu,Consumer,India,Bihar,Patna,East,Furniture,Storage,Filing Cabinet,14820,2,0.05,3076.37,UPI
+ORD202504020951,02-04-2025,CUST10334,Sneha Gupta,Consumer,India,Tamil Nadu,Chennai,South,Furniture,Tables,Study Desk,42160,8,0.15,3421.75,Credit Card
+ORD202504040006,04-04-2025,CUST10371,Zoya Rao,Consumer,India,Gujarat,Ahmedabad,West,Home & Kitchen,Appliances,Air Fryer,5599.2,1,0.2,399.66,Credit Card
+ORD202504040380,04-04-2025,CUST10556,Priya Jain,Consumer,India,Gujarat,Surat,West,Technology,Accessories,Mechanical Keyboard,8397.6,3,0.2,1321.27,Credit Card
+ORD202504040611,04-04-2025,CUST10153,Tanvi Joshi,Corporate,India,Odisha,Bhubaneswar,East,Furniture,Home Decor,Wall Art Set,1620,1,0.1,390,Net Banking
+ORD202504050105,05-04-2025,CUST10380,Rahul Bose,Consumer,India,Delhi,New Delhi,North,Furniture,Storage,Wardrobe,47175,3,0.15,4944.26,UPI
+ORD202504060144,06-04-2025,CUST10055,Pooja Verma,Corporate,India,Maharashtra,Mumbai,West,Home & Kitchen,Appliances,Mixer Grinder,9897,4,0.25,-413.09,Credit Card
+ORD202504080266,08-04-2025,CUST10105,Anika Deshmukh,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Audio,Bluetooth Speaker,4798.4,2,0.2,467.64,Debit Card
+ORD202504090421,09-04-2025,CUST10500,Aditya Kulkarni,Consumer,India,Kerala,Kochi,South,Furniture,Storage,Wardrobe,37000,2,0,8047.94,Debit Card
+ORD202504100392,10-04-2025,CUST10093,Zoya Banerjee,Consumer,India,Rajasthan,Jaipur,North,Furniture,Chairs,Ergonomic Office Chair,16575,3,0.15,902.39,Debit Card
+ORD202504110824,11-04-2025,CUST10424,Ishaan Chopra,Consumer,India,Bihar,Patna,East,Home & Kitchen,Bedding,Cotton Bedsheet Set,9714.6,6,0.1,1527.49,Credit Card
+ORD202504130047,13-04-2025,CUST10038,Meera Chopra,Consumer,India,Maharashtra,Pune,West,Technology,Computers,Desktop Computer,232194.6,6,0.1,33314.63,Credit Card
+ORD202504140007,14-04-2025,CUST10032,Samiksha Banerjee,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Lighting,LED Desk Lamp,1498.5,2,0.25,11.67,UPI
+ORD202504160111,16-04-2025,CUST10173,Sanjay Jain,Corporate,India,Bihar,Patna,East,Technology,Accessories,USB-C Hub,4178.1,2,0.05,1094.71,Net Banking
+ORD202504160363,16-04-2025,CUST10365,Manish Mishra,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Writing,Pen Set,237.5,1,0.05,63.5,Credit Card
+ORD202504170390,17-04-2025,CUST10171,Diya Bose,Consumer,India,Maharashtra,Pune,West,Technology,Audio,Wireless Headphones,4499.1,1,0.1,405.67,Credit Card
+ORD202504180576,18-04-2025,CUST10184,Nisha Chopra,Corporate,India,Karnataka,Bengaluru,South,Furniture,Chairs,Dining Chair,13300,5,0.05,2523.13,Credit Card
+ORD202504190098,19-04-2025,CUST10558,Kabir Mishra,Consumer,India,Karnataka,Bengaluru,South,Technology,Accessories,Mechanical Keyboard,6648.1,2,0.05,1919.56,Debit Card
+ORD202504190181,19-04-2025,CUST10272,Manish Banerjee,Corporate,India,Maharashtra,Nagpur,West,Technology,Phones,Android Smartphone,18399.2,1,0.2,-1641.85,Debit Card
+ORD202504190425,19-04-2025,CUST10334,Sneha Gupta,Consumer,India,Telangana,Hyderabad,South,Technology,Phones,Feature Phone,2499,1,0,534.71,Debit Card
+ORD202504200175,20-04-2025,CUST10378,Ishaan Bose,Consumer,India,Kerala,Kochi,South,Technology,Accessories,Wireless Mouse,809.1,1,0.1,143.71,UPI
+ORD202504200640,20-04-2025,CUST10439,Arjun Joshi,Corporate,India,Gujarat,Ahmedabad,West,Office Supplies,Paper,Notebook Pack,810,2,0.1,89.2,UPI
+ORD202504210846,21-04-2025,CUST10582,Zoya Iyer,Corporate,India,Uttar Pradesh,Lucknow,North,Furniture,Home Decor,Wall Art Set,4860,3,0.1,871.93,UPI
+ORD202504220875,22-04-2025,CUST10154,Saanvi Kulkarni,Consumer,India,West Bengal,Kolkata,East,Technology,Phones,Feature Phone,1999.2,1,0.2,-135.58,UPI
+ORD202504240973,24-04-2025,CUST10161,Saanvi Nair,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Phones,Android Smartphone,131094.3,6,0.05,17357.62,COD
+ORD202504260972,26-04-2025,CUST10069,Varun Iyer,Home Office,India,Maharashtra,Mumbai,West,Office Supplies,Writing,Pen Set,675,3,0.1,129.16,UPI
+ORD202504280190,28-04-2025,CUST10543,Sneha Deshmukh,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Accessories,Wireless Mouse,854.05,1,0.05,223.95,Debit Card
+ORD202504280971,28-04-2025,CUST10474,Riya Iyer,Consumer,India,Odisha,Bhubaneswar,East,Technology,Accessories,USB-C Hub,5937.3,3,0.1,828.11,UPI
+ORD202504290585,29-04-2025,CUST10120,Dev Nair,Consumer,India,Bihar,Patna,East,Home & Kitchen,Lighting,LED Desk Lamp,849.15,1,0.15,125.84,Credit Card
+ORD202505020028,02-05-2025,CUST10514,Aishwarya Jain,Consumer,India,Maharashtra,Pune,West,Home & Kitchen,Cookware,Cookware Set,42990,10,0,10337.28,UPI
+ORD202505020368,02-05-2025,CUST10586,Riya Mishra,Corporate,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Bedding,Cotton Bedsheet Set,3238.2,2,0.1,656.39,Debit Card
+ORD202505030806,03-05-2025,CUST10039,Rohan Reddy,Consumer,India,Gujarat,Surat,West,Home & Kitchen,Cookware,Non-stick Pan,11392.4,8,0.05,1910.4,Debit Card
+ORD202505030964,03-05-2025,CUST10577,Saanvi Chopra,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Writing,Premium Notebook,1760,8,0,428.9,COD
+ORD202505060749,06-05-2025,CUST10510,Pooja Mishra,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Floor Lamp,5400,3,0.25,658.41,Debit Card
+ORD202505070369,07-05-2025,CUST10573,Kavya Joshi,Consumer,India,Karnataka,Bengaluru,South,Technology,Accessories,Wireless Mouse,719.2,1,0.2,75.72,Net Banking
+ORD202505080435,08-05-2025,CUST10082,Zoya Kapoor,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Organizers,Desk Organizer,1105,2,0.15,95.95,Debit Card
+ORD202505090260,09-05-2025,CUST10521,Sneha Sharma,Corporate,India,Rajasthan,Jaipur,North,Technology,Accessories,Wireless Mouse,1528.3,2,0.15,345.51,Credit Card
+ORD202505100804,10-05-2025,CUST10047,Rahul Pillai,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Paper,Notebook Pack,1350,4,0.25,50.67,UPI
+ORD202505110582,11-05-2025,CUST10483,Kabir Shah,Consumer,India,Telangana,Hyderabad,South,Technology,Accessories,Mechanical Keyboard,5598.4,2,0.2,207.86,UPI
+ORD202505120540,12-05-2025,CUST10021,Saanvi Patel,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Binders,Ring Binder Pack,2160,5,0.1,271.9,Debit Card
+ORD202505120954,12-05-2025,CUST10225,Nisha Sharma,Consumer,India,Maharashtra,Pune,West,Office Supplies,Organizers,Cable Organizer,239.2,1,0.2,27.52,Debit Card
+ORD202505160965,16-05-2025,CUST10256,Ananya Banerjee,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Appliances,Mixer Grinder,12536.2,4,0.05,1267.46,UPI
+ORD202505170056,17-05-2025,CUST10205,Aishwarya Rao,Consumer,India,Maharashtra,Nagpur,West,Home & Kitchen,Appliances,Air Fryer,13998,2,0,3016.15,COD
+ORD202505180548,18-05-2025,CUST10483,Kabir Shah,Corporate,India,Odisha,Bhubaneswar,East,Home & Kitchen,Cookware,Non-stick Pan,4047.3,3,0.1,583.86,Debit Card
+ORD202505190792,19-05-2025,CUST10546,Aditya Pillai,Consumer,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Cookware,Cookware Set,6878.4,2,0.2,643.69,UPI
+ORD202505200396,20-05-2025,CUST10244,Tanvi Banerjee,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Lighting,Smart Bulb Pack,1019.15,1,0.15,88.42,Credit Card
+ORD202505210564,21-05-2025,CUST10042,Riya Gupta,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Lighting,Smart Bulb Pack,1019.15,1,0.15,74.63,UPI
+ORD202505210772,21-05-2025,CUST10546,Aditya Pillai,Corporate,India,Maharashtra,Nagpur,West,Technology,Audio,Wireless Headphones,8998.2,2,0.1,1349.83,UPI
+ORD202505230963,23-05-2025,CUST10404,Karan Jain,Home Office,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Floor Lamp,4800,2,0,1622.25,Credit Card
+ORD202505240227,24-05-2025,CUST10303,Kabir Jain,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Lighting,LED Desk Lamp,1398.6,2,0.3,96.84,UPI
+ORD202505240453,24-05-2025,CUST10153,Tanvi Joshi,Corporate,India,Maharashtra,Mumbai,West,Furniture,Home Decor,Wall Art Set,1710,1,0.05,448.51,UPI
+ORD202505250902,25-05-2025,CUST10237,Karan Gupta,Consumer,India,Madhya Pradesh,Indore,Central,Office Supplies,Paper,A4 Paper Ream,1216,4,0.05,247.38,Credit Card
+ORD202505260055,26-05-2025,CUST10531,Rohan Rao,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Storage,Wardrobe,52725,3,0.05,8075.51,Debit Card
+ORD202505290189,29-05-2025,CUST10330,Aditi Kapoor,Consumer,India,Rajasthan,Jaipur,North,Furniture,Storage,Filing Cabinet,6240,1,0.2,492.93,UPI
+ORD202505300507,30-05-2025,CUST10227,Nisha Shah,Corporate,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Wall Art Set,10800,6,0,2898.42,UPI
+ORD202505310832,31-05-2025,CUST10122,Samiksha Banerjee,Consumer,India,Karnataka,Bengaluru,South,Office Supplies,Writing,Marker Set,360,1,0,94.05,Debit Card
+ORD202506010601,01-06-2025,CUST10114,Akash Gupta,Corporate,India,Bihar,Patna,East,Office Supplies,Binders,Ring Binder Pack,408,1,0.15,20.39,UPI
+ORD202506030586,03-06-2025,CUST10225,Nisha Sharma,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Appliances,Electric Kettle,3507.3,3,0.1,467.74,Net Banking
+ORD202506030907,03-06-2025,CUST10231,Sneha Khan,Corporate,India,Tamil Nadu,Chennai,South,Home & Kitchen,Bedding,Cotton Bedsheet Set,1799,1,0,536.65,COD
+ORD202506040058,04-06-2025,CUST10230,Ishaan Bose,Consumer,India,Delhi,New Delhi,North,Technology,Accessories,Mechanical Keyboard,3149.1,1,0.1,524.79,COD
+ORD202506040654,04-06-2025,CUST10398,Ananya Kulkarni,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Organizers,Cable Organizer,254.15,1,0.15,39.66,Credit Card
+ORD202506080999,08-06-2025,CUST10171,Diya Bose,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Technology,Accessories,Wireless Mouse,2157.6,3,0.2,145.71,UPI
+ORD202506120038,12-06-2025,CUST10128,Karan Rao,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Organizers,Desk Organizer,2600,4,0,799.42,COD
+ORD202506120138,12-06-2025,CUST10179,Nisha Mehta,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Lighting,LED Desk Lamp,3396.6,4,0.15,368.85,Debit Card
+ORD202506130169,13-06-2025,CUST10266,Rohan Iyer,Consumer,India,Gujarat,Surat,West,Office Supplies,Paper,A4 Paper Ream,288,1,0.1,34.08,UPI
+ORD202506130210,13-06-2025,CUST10586,Riya Mishra,Corporate,India,Gujarat,Surat,West,Furniture,Home Decor,Floor Lamp,14400,6,0,3739.17,UPI
+ORD202506160488,16-06-2025,CUST10344,Kavya Das,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Organizers,Cable Organizer,538.2,2,0.1,134.96,UPI
+ORD202506160637,16-06-2025,CUST10243,Nisha Pillai,Home Office,India,Telangana,Hyderabad,South,Furniture,Home Decor,Decorative Mirror,2240,1,0.3,186.68,UPI
+ORD202506170600,17-06-2025,CUST10349,Samiksha Singh,Corporate,India,Rajasthan,Jaipur,North,Furniture,Chairs,Accent Chair,20520,3,0.05,5455.9,Debit Card
+ORD202506190608,19-06-2025,CUST10157,Tanvi Shah,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Binders,Document Folder,240,2,0.2,9.58,Credit Card
+ORD202506200333,20-06-2025,CUST10086,Anika Shah,Consumer,India,Gujarat,Surat,West,Furniture,Home Decor,Wall Art Set,1530,1,0.15,282.35,UPI
+ORD202506210103,21-06-2025,CUST10327,Meera Jain,Corporate,India,Tamil Nadu,Chennai,South,Technology,Phones,Feature Phone,2249.1,1,0.1,109.61,UPI
+ORD202506210818,21-06-2025,CUST10220,Nisha Verma,Corporate,India,Punjab,Ludhiana,North,Technology,Computers,Business Laptop,265495.5,5,0.1,31825.27,UPI
+ORD202506220188,22-06-2025,CUST10256,Ananya Banerjee,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Decorative Mirror,5760,2,0.1,1110.85,COD
+ORD202506220271,22-06-2025,CUST10226,Priya Verma,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Furniture,Tables,Study Desk,11160,2,0.1,1382.91,COD
+ORD202506220355,22-06-2025,CUST10263,Nisha Joshi,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Chairs,Ergonomic Office Chair,14625,3,0.25,1082.12,Credit Card
+ORD202506220605,22-06-2025,CUST10413,Rohan Reddy,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Bedding,Comforter,7347.9,3,0.3,84.23,Net Banking
+ORD202506230334,23-06-2025,CUST10175,Varun Deshmukh,Consumer,India,Bihar,Patna,East,Office Supplies,Organizers,Cable Organizer,2152.8,8,0.1,351.2,Credit Card
+ORD202506230374,23-06-2025,CUST10045,Tanvi Kulkarni,Consumer,India,Maharashtra,Pune,West,Office Supplies,Writing,Premium Notebook,660,3,0,205.7,UPI
+ORD202506230873,23-06-2025,CUST10180,Aishwarya Sharma,Consumer,India,Bihar,Patna,East,Office Supplies,Organizers,Cable Organizer,1704.3,6,0.05,330.94,Credit Card
+ORD202506230913,23-06-2025,CUST10274,Samiksha Khan,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Chairs,Dining Chair,11900,5,0.15,1303.79,UPI
+ORD202506240092,24-06-2025,CUST10371,Zoya Rao,Consumer,India,Chhattisgarh,Raipur,Central,Furniture,Chairs,Accent Chair,34200,5,0.05,7956.03,UPI
+ORD202507010908,01-07-2025,CUST10389,Sanjay Naidu,Corporate,India,Maharashtra,Mumbai,West,Home & Kitchen,Cookware,Cookware Set,14616.6,4,0.15,1208.22,Credit Card
+ORD202507020455,02-07-2025,CUST10368,Sanjay Joshi,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Cookware,Non-stick Pan,2398.4,2,0.2,138.17,COD
+ORD202507020720,02-07-2025,CUST10195,Diya Verma,Corporate,India,Tamil Nadu,Chennai,South,Office Supplies,Binders,Ring Binder Pack,816,2,0.15,51.9,Credit Card
+ORD202507030167,03-07-2025,CUST10335,Ishaan Pillai,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Organizers,Desk Organizer,650,1,0,156.54,Credit Card
+ORD202507040389,04-07-2025,CUST10406,Aditya Banerjee,Home Office,India,Maharashtra,Pune,West,Home & Kitchen,Cookware,Non-stick Pan,1349.1,1,0.1,185.69,COD
+ORD202507050721,05-07-2025,CUST10472,Aarav Chopra,Consumer,India,West Bengal,Kolkata,East,Technology,Audio,Wireless Headphones,4749.05,1,0.05,1007.22,COD
+ORD202507090350,09-07-2025,CUST10502,Aishwarya Nair,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Binders,Document Folder,120,1,0.2,17.76,Credit Card
+ORD202507130524,13-07-2025,CUST10019,Aditya Iyer,Home Office,India,Maharashtra,Pune,West,Home & Kitchen,Cookware,Cookware Set,6878.4,2,0.2,288.6,UPI
+ORD202507150423,15-07-2025,CUST10163,Rohan Verma,Home Office,India,Karnataka,Bengaluru,South,Furniture,Storage,Bookshelf,18360,4,0.15,2429.1,Credit Card
+ORD202507180059,18-07-2025,CUST10133,Saanvi Banerjee,Consumer,India,Maharashtra,Nagpur,West,Furniture,Storage,Wardrobe,157250,10,0.15,8821.31,Debit Card
+ORD202507180221,18-07-2025,CUST10359,Samiksha Chopra,Consumer,India,Punjab,Ludhiana,North,Furniture,Storage,Bookshelf,10800,2,0,2485.25,Net Banking
+ORD202507180494,18-07-2025,CUST10120,Dev Nair,Consumer,India,Karnataka,Bengaluru,South,Technology,Audio,Wireless Headphones,4999,1,0,1198.68,Credit Card
+ORD202507190306,19-07-2025,CUST10571,Varun Iyer,Consumer,India,Bihar,Patna,East,Home & Kitchen,Bedding,Comforter,5598.4,2,0.2,312.04,UPI
+ORD202507200956,20-07-2025,CUST10065,Saanvi Chopra,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Technology,Phones,Android Smartphone,183992,10,0.2,-10050.81,Debit Card
+ORD202507210934,21-07-2025,CUST10482,Priya Jain,Corporate,India,Gujarat,Surat,West,Furniture,Home Decor,Floor Lamp,5040,3,0.3,-32.59,COD
+ORD202507260901,26-07-2025,CUST10142,Meera Patel,Corporate,India,Telangana,Hyderabad,South,Home & Kitchen,Lighting,LED Desk Lamp,1998,2,0,564.26,UPI
+ORD202507280497,28-07-2025,CUST10090,Nisha Deshmukh,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Lighting,Smart Bulb Pack,1019.15,1,0.15,181.59,Debit Card
+ORD202507280820,28-07-2025,CUST10204,Diya Kulkarni,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Phones,Feature Phone,1999.2,1,0.2,121.42,Credit Card
+ORD202507300893,30-07-2025,CUST10348,Nisha Bose,Consumer,India,Gujarat,Surat,West,Office Supplies,Binders,Document Folder,120,1,0.2,10.53,Net Banking
+ORD202507310975,31-07-2025,CUST10105,Anika Deshmukh,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Bedding,Comforter,23793.2,8,0.15,3062.76,COD
+ORD202508030838,03-08-2025,CUST10033,Zoya Reddy,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Organizers,Desk Organizer,552.5,1,0.15,100.68,UPI
+ORD202508040016,04-08-2025,CUST10087,Kabir Nair,Home Office,India,Gujarat,Surat,West,Technology,Computers,Tablet,22499.1,1,0.1,1898.07,Debit Card
+ORD202508050671,05-08-2025,CUST10503,Varun Iyer,Consumer,India,Chhattisgarh,Raipur,Central,Furniture,Chairs,Dining Chair,6300,3,0.25,-87.89,COD
+ORD202508070943,07-08-2025,CUST10437,Tanvi Jain,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Technology,Audio,Wireless Headphones,25494.9,6,0.15,3854.46,UPI
+ORD202508080173,08-08-2025,CUST10382,Sanjay Iyer,Consumer,India,Maharashtra,Pune,West,Technology,Accessories,USB-C Hub,16492.5,10,0.25,-376.86,Credit Card
+ORD202508090610,09-08-2025,CUST10318,Ananya Mishra,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Lighting,LED Desk Lamp,3596.4,4,0.1,681.63,Credit Card
+ORD202508090703,09-08-2025,CUST10353,Aditya Singh,Corporate,India,Punjab,Ludhiana,North,Technology,Audio,Wireless Headphones,4999,1,0,1093.99,UPI
+ORD202508100437,10-08-2025,CUST10340,Karan Rao,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Writing,Pen Set,637.5,3,0.15,92.48,Debit Card
+ORD202508100476,10-08-2025,CUST10006,Nisha Patel,Consumer,India,Maharashtra,Pune,West,Furniture,Home Decor,Decorative Mirror,12800,4,0,3639.77,Credit Card
+ORD202508110320,11-08-2025,CUST10282,Kavya Joshi,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Organizers,Desk Organizer,2600,4,0,659.37,Credit Card
+ORD202508120849,12-08-2025,CUST10005,Arjun Pillai,Home Office,India,West Bengal,Kolkata,East,Technology,Audio,Bluetooth Speaker,11246.25,5,0.25,-416.37,Debit Card
+ORD202508130823,13-08-2025,CUST10015,Nisha Singh,Consumer,India,Bihar,Patna,East,Furniture,Storage,Wardrobe,29600,2,0.2,1121.97,Debit Card
+ORD202508140201,14-08-2025,CUST10231,Sneha Khan,Consumer,India,Maharashtra,Nagpur,West,Furniture,Storage,Bookshelf,4050,1,0.25,-211.05,UPI
+ORD202508140398,14-08-2025,CUST10306,Nisha Nair,Consumer,India,Maharashtra,Nagpur,West,Furniture,Chairs,Dining Chair,28000,10,0,5314.77,Debit Card
+ORD202508150822,15-08-2025,CUST10100,Ananya Naidu,Consumer,India,Delhi,New Delhi,North,Home & Kitchen,Appliances,Air Fryer,12598.2,2,0.1,2120.69,Net Banking
+ORD202508160939,16-08-2025,CUST10521,Sneha Sharma,Corporate,India,Tamil Nadu,Chennai,South,Office Supplies,Binders,Document Folder,150,1,0,31.51,COD
+ORD202508170178,17-08-2025,CUST10098,Riya Pillai,Consumer,India,Karnataka,Bengaluru,South,Furniture,Chairs,Dining Chair,8400,3,0,1603.01,COD
+ORD202508170891,17-08-2025,CUST10311,Tanvi Singh,Consumer,India,Telangana,Hyderabad,South,Furniture,Storage,Bookshelf,9180,2,0.15,562.43,Net Banking
+ORD202508190557,19-08-2025,CUST10470,Rohan Naidu,Consumer,India,Kerala,Kochi,South,Technology,Phones,Feature Phone,6372.45,3,0.15,456.8,Debit Card
+ORD202508200528,20-08-2025,CUST10028,Ananya Patel,Corporate,India,Odisha,Bhubaneswar,East,Home & Kitchen,Cookware,Cookware Set,7738.2,2,0.1,883.53,Debit Card
+ORD202508200842,20-08-2025,CUST10320,Rohan Deshmukh,Consumer,India,Delhi,New Delhi,North,Home & Kitchen,Lighting,Smart Bulb Pack,2038.3,2,0.15,339.84,Debit Card
+ORD202508200949,20-08-2025,CUST10241,Aarav Kapoor,Consumer,India,Kerala,Kochi,South,Technology,Phones,Android Smartphone,97745.75,5,0.15,110.56,Debit Card
+ORD202508210885,21-08-2025,CUST10524,Vikram Verma,Corporate,India,Maharashtra,Pune,West,Technology,Accessories,USB-C Hub,5937.3,3,0.1,749.86,Debit Card
+ORD202508210974,21-08-2025,CUST10314,Arjun Rao,Consumer,India,Karnataka,Bengaluru,South,Office Supplies,Writing,Pen Set,750,3,0,195.23,UPI
+ORD202508220993,22-08-2025,CUST10395,Varun Reddy,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Audio,Wireless Headphones,12747.45,3,0.15,802.02,UPI
+ORD202508230315,23-08-2025,CUST10029,Riya Kapoor,Consumer,India,Punjab,Ludhiana,North,Furniture,Home Decor,Decorative Mirror,12160,4,0.05,3230.48,COD
+ORD202508240662,24-08-2025,CUST10566,Priya Nair,Corporate,India,Telangana,Hyderabad,South,Office Supplies,Paper,Notebook Pack,1620,4,0.1,367.53,Credit Card
+ORD202508260161,26-08-2025,CUST10394,Manish Banerjee,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Writing,Pen Set,250,1,0,76.87,Debit Card
+ORD202508280936,28-08-2025,CUST10111,Nisha Verma,Home Office,India,Maharashtra,Pune,West,Furniture,Storage,Wardrobe,94350,6,0.15,8132.75,Credit Card
+ORD202508290470,29-08-2025,CUST10594,Diya Joshi,Consumer,India,Delhi,New Delhi,North,Office Supplies,Writing,Pen Set,250,1,0,83.32,COD
+ORD202508290719,29-08-2025,CUST10193,Rahul Gupta,Corporate,India,Gujarat,Ahmedabad,West,Office Supplies,Writing,Marker Set,2592,8,0.1,298.69,UPI
+ORD202508300833,30-08-2025,CUST10157,Tanvi Shah,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Floor Lamp,7200,3,0,2113.34,Debit Card
+ORD202508310568,31-08-2025,CUST10006,Nisha Patel,Consumer,India,Maharashtra,Pune,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,1799,1,0,503.92,UPI
+ORD202509020143,02-09-2025,CUST10142,Meera Patel,Consumer,India,Tamil Nadu,Chennai,South,Technology,Audio,Bluetooth Speaker,5398.2,2,0.1,564.88,UPI
+ORD202509020237,02-09-2025,CUST10537,Sanjay Gupta,Consumer,India,Gujarat,Surat,West,Office Supplies,Organizers,Cable Organizer,1196,4,0,403.01,COD
+ORD202509020281,02-09-2025,CUST10404,Karan Jain,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Writing,Premium Notebook,561,3,0.15,68.52,COD
+ORD202509040132,04-09-2025,CUST10491,Manish Verma,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Cookware,Cookware Set,10317.6,3,0.2,651.4,COD
+ORD202509040689,04-09-2025,CUST10455,Aishwarya Banerjee,Corporate,India,Odisha,Bhubaneswar,East,Technology,Phones,Feature Phone,6372.45,3,0.15,289.45,Net Banking
+ORD202509040950,04-09-2025,CUST10366,Anika Banerjee,Consumer,India,West Bengal,Kolkata,East,Furniture,Tables,Wooden Table,54400,8,0.2,3642.14,Credit Card
+ORD202509050652,05-09-2025,CUST10440,Aditi Gupta,Home Office,India,Uttar Pradesh,Lucknow,North,Furniture,Tables,Coffee Table,4500,1,0,965.72,Debit Card
+ORD202509060830,06-09-2025,CUST10326,Saanvi Verma,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Appliances,Air Fryer,53192.4,8,0.05,8921.47,COD
+ORD202509080193,08-09-2025,CUST10225,Nisha Sharma,Consumer,India,Kerala,Kochi,South,Furniture,Storage,Filing Cabinet,7800,1,0,1874.9,COD
+ORD202509080738,08-09-2025,CUST10566,Priya Nair,Consumer,India,Bihar,Patna,East,Office Supplies,Writing,Premium Notebook,660,3,0,168.76,Credit Card
+ORD202509090643,09-09-2025,CUST10352,Rohan Banerjee,Consumer,India,Maharashtra,Mumbai,West,Technology,Computers,Business Laptop,94398.4,2,0.2,1908.58,Credit Card
+ORD202509120737,12-09-2025,CUST10552,Akash Jain,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Tables,Wooden Table,8075,1,0.05,1647.85,Net Banking
+ORD202509120894,12-09-2025,CUST10185,Aarav Iyer,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Writing,Premium Notebook,165,1,0.25,9.28,Debit Card
+ORD202509130843,13-09-2025,CUST10393,Sanjay Rao,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Binders,Ring Binder Pack,768,2,0.2,95.33,UPI
+ORD202509140008,14-09-2025,CUST10152,Rahul Gupta,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Organizers,Cable Organizer,508.3,2,0.15,48.99,Debit Card
+ORD202509140162,14-09-2025,CUST10292,Aditya Rao,Corporate,India,Maharashtra,Mumbai,West,Office Supplies,Writing,Premium Notebook,627,3,0.05,145.68,Debit Card
+ORD202509140847,14-09-2025,CUST10077,Priya Nair,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Bedding,Comforter,3499,1,0,836.79,UPI
+ORD202509150168,15-09-2025,CUST10057,Anika Shah,Consumer,India,Rajasthan,Jaipur,North,Furniture,Chairs,Accent Chair,7200,1,0,1940.38,UPI
+ORD202509150402,15-09-2025,CUST10325,Rahul Banerjee,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Writing,Premium Notebook,396,2,0.1,88.49,Credit Card
+ORD202509150928,15-09-2025,CUST10217,Neha Pillai,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Writing,Marker Set,1440,4,0,434.41,Credit Card
+ORD202509160149,16-09-2025,CUST10439,Arjun Joshi,Consumer,India,Gujarat,Surat,West,Technology,Accessories,Wireless Mouse,1618.2,2,0.1,369.86,UPI
+ORD202509170466,17-09-2025,CUST10039,Rohan Reddy,Consumer,India,Kerala,Kochi,South,Furniture,Storage,Wardrobe,33300,2,0.1,1727.15,Net Banking
+ORD202509190339,19-09-2025,CUST10279,Samiksha Singh,Consumer,India,Madhya Pradesh,Indore,Central,Office Supplies,Organizers,Desk Organizer,3087.5,5,0.05,549.71,Debit Card
+ORD202509190464,19-09-2025,CUST10386,Aarav Naidu,Corporate,India,Maharashtra,Mumbai,West,Home & Kitchen,Cookware,Non-stick Pan,1124.25,1,0.25,74.7,Credit Card
+ORD202509190851,19-09-2025,CUST10049,Anika Kulkarni,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Cookware,Cookware Set,25794,6,0,4678.05,COD
+ORD202509210063,21-09-2025,CUST10547,Vikram Pillai,Consumer,India,Rajasthan,Jaipur,North,Technology,Accessories,USB-C Hub,4947.75,3,0.25,73.06,Net Banking
+ORD202509220404,22-09-2025,CUST10425,Riya Mishra,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Writing,Pen Set,637.5,3,0.15,88.05,UPI
+ORD202509230527,23-09-2025,CUST10362,Rohan Bose,Corporate,India,West Bengal,Kolkata,East,Office Supplies,Paper,A4 Paper Ream,960,3,0,174.05,COD
+ORD202509230826,23-09-2025,CUST10422,Riya Mehta,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Decorative Mirror,6400,2,0,1603.75,Credit Card
+ORD202509240340,24-09-2025,CUST10464,Dev Patel,Consumer,India,Kerala,Kochi,South,Technology,Phones,Android Smartphone,17249.25,1,0.25,-2577.07,Net Banking
+ORD202509240761,24-09-2025,CUST10157,Tanvi Shah,Corporate,India,Rajasthan,Jaipur,North,Technology,Phones,Android Smartphone,80496.5,5,0.3,-12909.25,COD
+ORD202509260076,26-09-2025,CUST10390,Kabir Mishra,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Chairs,Ergonomic Office Chair,6175,1,0.05,918.22,Debit Card
+ORD202509260397,26-09-2025,CUST10571,Varun Iyer,Corporate,India,Delhi,New Delhi,North,Furniture,Tables,Wooden Table,7650,1,0.1,499.95,UPI
+ORD202509300072,30-09-2025,CUST10122,Samiksha Banerjee,Consumer,India,Gujarat,Ahmedabad,West,Home & Kitchen,Bedding,Comforter,6298.2,2,0.1,662.55,Debit Card
+ORD202510010683,01-10-2025,CUST10213,Vikram Mishra,Home Office,India,Karnataka,Bengaluru,South,Home & Kitchen,Cookware,Non-stick Pan,1349.1,1,0.1,160.96,Credit Card
+ORD202510020837,02-10-2025,CUST10079,Aarav Jain,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Bedding,Comforter,13996,4,0,2399.19,UPI
+ORD202510060327,06-10-2025,CUST10099,Riya Sharma,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Binders,Document Folder,225,2,0.25,3.06,UPI
+ORD202510060768,06-10-2025,CUST10124,Dev Chopra,Consumer,India,Delhi,New Delhi,North,Technology,Audio,Bluetooth Speaker,2699.1,1,0.1,359,Debit Card
+ORD202510070583,07-10-2025,CUST10443,Manish Khan,Home Office,India,Kerala,Kochi,South,Office Supplies,Paper,Notebook Pack,810,2,0.1,159.12,Net Banking
+ORD202510080648,08-10-2025,CUST10600,Karan Mehta,Home Office,India,Bihar,Patna,East,Furniture,Chairs,Ergonomic Office Chair,6500,1,0,1910.7,Debit Card
+ORD202510080995,08-10-2025,CUST10191,Sneha Verma,Consumer,India,Telangana,Hyderabad,South,Office Supplies,Binders,Document Folder,337.5,3,0.25,7.64,UPI
+ORD202510120988,12-10-2025,CUST10004,Diya Gupta,Consumer,India,Madhya Pradesh,Indore,Central,Office Supplies,Paper,Notebook Pack,720,2,0.2,15.88,Net Banking
+ORD202510150448,15-10-2025,CUST10125,Diya Patel,Corporate,India,Gujarat,Ahmedabad,West,Furniture,Tables,Study Desk,14880,3,0.2,1030.43,Net Banking
+ORD202510150536,15-10-2025,CUST10546,Aditya Pillai,Corporate,India,Tamil Nadu,Chennai,South,Furniture,Tables,Study Desk,11780,2,0.05,2615.17,Debit Card
+ORD202510160199,16-10-2025,CUST10344,Kavya Das,Consumer,India,Punjab,Ludhiana,North,Technology,Accessories,USB-C Hub,2089.05,1,0.05,318.84,UPI
+ORD202510160356,16-10-2025,CUST10063,Aditya Jain,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Paper,Sticky Notes Pack,180,1,0,39.57,UPI
+ORD202510170061,17-10-2025,CUST10187,Kavya Chopra,Corporate,India,Gujarat,Surat,West,Home & Kitchen,Cookware,Non-stick Pan,2848.1,2,0.05,456.2,Net Banking
+ORD202510180086,18-10-2025,CUST10557,Saanvi Gupta,Consumer,India,Gujarat,Surat,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,6836.2,4,0.05,1708.07,Debit Card
+ORD202510180251,18-10-2025,CUST10395,Varun Reddy,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Chairs,Accent Chair,38880,6,0.1,7025.63,Credit Card
+ORD202510180286,18-10-2025,CUST10447,Anika Shah,Consumer,India,Bihar,Patna,East,Technology,Phones,Feature Phone,4498.2,2,0.1,259.84,Credit Card
+ORD202510200032,20-10-2025,CUST10337,Nisha Gupta,Corporate,India,Andhra Pradesh,Visakhapatnam,South,Furniture,Home Decor,Decorative Mirror,5760,2,0.1,865.36,UPI
+ORD202510200452,20-10-2025,CUST10109,Priya Iyer,Home Office,India,Punjab,Ludhiana,North,Furniture,Chairs,Ergonomic Office Chair,5525,1,0.15,836.01,UPI
+ORD202510210613,21-10-2025,CUST10573,Kavya Joshi,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Tables,Study Desk,12400,2,0,3126.73,Credit Card
+ORD202510220828,22-10-2025,CUST10406,Aditya Banerjee,Consumer,India,Bihar,Patna,East,Technology,Phones,Feature Phone,11870.25,5,0.05,2075.96,Debit Card
+ORD202510240493,24-10-2025,CUST10303,Kabir Jain,Consumer,India,West Bengal,Kolkata,East,Technology,Audio,Wireless Headphones,12747.45,3,0.15,1893.31,UPI
+ORD202510250478,25-10-2025,CUST10093,Zoya Banerjee,Consumer,India,West Bengal,Kolkata,East,Technology,Audio,Bluetooth Speaker,21592.8,8,0.1,2254.45,Debit Card
+ORD202510250690,25-10-2025,CUST10296,Riya Rao,Corporate,India,Uttar Pradesh,Lucknow,North,Office Supplies,Binders,Ring Binder Pack,480,1,0,138.47,Net Banking
+ORD202510260929,26-10-2025,CUST10081,Aditi Iyer,Home Office,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Cookware,Non-stick Pan,3822.45,3,0.15,479.13,UPI
+ORD202510270160,27-10-2025,CUST10169,Diya Nair,Consumer,India,Delhi,New Delhi,North,Technology,Audio,Wireless Headphones,24995,5,0,4100.81,Debit Card
+ORD202510270385,27-10-2025,CUST10383,Priya Kapoor,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Lighting,LED Desk Lamp,949.05,1,0.05,213.25,Net Banking
+ORD202510270729,27-10-2025,CUST10347,Manish Banerjee,Consumer,India,Gujarat,Surat,West,Home & Kitchen,Appliances,Mixer Grinder,2969.1,1,0.1,170.36,Credit Card
+ORD202510300587,30-10-2025,CUST10369,Pooja Naidu,Corporate,India,Rajasthan,Jaipur,North,Technology,Phones,Android Smartphone,68997,3,0,6066.75,Debit Card
+ORD202510300921,30-10-2025,CUST10013,Samiksha Sharma,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Binders,Ring Binder Pack,960,2,0,154.79,UPI
+ORD202510310203,31-10-2025,CUST10169,Diya Nair,Consumer,India,Tamil Nadu,Chennai,South,Technology,Computers,Business Laptop,41299.3,1,0.3,-5273.95,Credit Card
+ORD202511010255,01-11-2025,CUST10468,Anika Iyer,Home Office,India,Bihar,Patna,East,Furniture,Tables,Study Desk,5270,1,0.15,613.92,Debit Card
+ORD202511040530,04-11-2025,CUST10433,Pooja Mehta,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Paper,Sticky Notes Pack,360,2,0,91.55,Credit Card
+ORD202511040889,04-11-2025,CUST10247,Manish Bose,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Audio,Wireless Headphones,4249.15,1,0.15,666.15,Credit Card
+ORD202511050664,05-11-2025,CUST10364,Rohan Naidu,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Lighting,Smart Bulb Pack,1199,1,0,347.65,Net Banking
+ORD202511060285,06-11-2025,CUST10314,Arjun Rao,Corporate,India,Gujarat,Surat,West,Office Supplies,Binders,Document Folder,142.5,1,0.05,36.69,Debit Card
+ORD202511090701,09-11-2025,CUST10166,Sneha Jain,Consumer,India,Maharashtra,Nagpur,West,Home & Kitchen,Lighting,LED Desk Lamp,1898.1,2,0.05,430.32,COD
+ORD202511100272,10-11-2025,CUST10340,Karan Rao,Consumer,India,West Bengal,Kolkata,East,Technology,Audio,Bluetooth Speaker,2699.1,1,0.1,320.24,Debit Card
+ORD202511100436,10-11-2025,CUST10080,Tanvi Rao,Corporate,India,Madhya Pradesh,Indore,Central,Office Supplies,Paper,Notebook Pack,900,2,0,219.21,COD
+ORD202511110044,11-11-2025,CUST10088,Manish Chopra,Consumer,India,Bihar,Patna,East,Furniture,Chairs,Dining Chair,14000,5,0,2858.29,UPI
+ORD202511120717,12-11-2025,CUST10140,Akash Pillai,Home Office,India,Kerala,Kochi,South,Furniture,Storage,Bookshelf,27540,6,0.15,2935.63,Debit Card
+ORD202511140208,14-11-2025,CUST10100,Ananya Naidu,Consumer,India,Bihar,Patna,East,Home & Kitchen,Appliances,Air Fryer,6299.1,1,0.1,681.32,Net Banking
+ORD202511140890,14-11-2025,CUST10282,Kavya Joshi,Consumer,India,Gujarat,Ahmedabad,West,Home & Kitchen,Lighting,Smart Bulb Pack,1139.05,1,0.05,175.78,Credit Card
+ORD202511160082,16-11-2025,CUST10544,Aditya Rao,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Chairs,Dining Chair,2520,1,0.1,404.12,UPI
+ORD202511170577,17-11-2025,CUST10461,Akash Deshmukh,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Writing,Pen Set,212.5,1,0.15,39.75,COD
+ORD202511200278,20-11-2025,CUST10122,Samiksha Banerjee,Consumer,India,Maharashtra,Nagpur,West,Furniture,Chairs,Dining Chair,16800,6,0,4370.77,UPI
+ORD202511220526,22-11-2025,CUST10503,Varun Iyer,Corporate,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Lighting,LED Desk Lamp,1798.2,2,0.1,349.31,Net Banking
+ORD202511240556,24-11-2025,CUST10194,Rohan Gupta,Consumer,India,Tamil Nadu,Chennai,South,Technology,Computers,Desktop Computer,326792.4,8,0.05,36155.24,UPI
+ORD202511240589,24-11-2025,CUST10163,Rohan Verma,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Furniture,Chairs,Dining Chair,4760,2,0.15,187.53,UPI
+ORD202511250250,25-11-2025,CUST10538,Meera Shah,Corporate,India,Chhattisgarh,Raipur,Central,Technology,Phones,Android Smartphone,39098.3,2,0.15,-1.17,Debit Card
+ORD202511250686,25-11-2025,CUST10137,Rahul Patel,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Cookware,Cookware Set,3224.25,1,0.25,1.12,Credit Card
+ORD202511250998,25-11-2025,CUST10411,Rahul Mehta,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Home Decor,Wall Art Set,5400,4,0.25,505.47,UPI
+ORD202511260428,26-11-2025,CUST10312,Aditya Mehta,Home Office,India,Tamil Nadu,Chennai,South,Office Supplies,Paper,Sticky Notes Pack,126,1,0.3,1.46,UPI
+ORD202511260752,26-11-2025,CUST10256,Ananya Banerjee,Corporate,India,Gujarat,Ahmedabad,West,Office Supplies,Binders,Document Folder,142.5,1,0.05,35.74,Credit Card
+ORD202511270122,27-11-2025,CUST10600,Karan Mehta,Corporate,India,Maharashtra,Nagpur,West,Office Supplies,Writing,Premium Notebook,209,1,0.05,48.22,Debit Card
+ORD202512010308,01-12-2025,CUST10054,Nisha Pillai,Consumer,India,Maharashtra,Mumbai,West,Furniture,Tables,Study Desk,33480,6,0.1,2811.36,UPI
+ORD202512010760,01-12-2025,CUST10243,Nisha Pillai,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Cookware,Cookware Set,8168.1,2,0.05,972.54,Credit Card
+ORD202512020145,02-12-2025,CUST10504,Dev Iyer,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Appliances,Mixer Grinder,5278.4,2,0.2,-206.52,UPI
+ORD202512020408,02-12-2025,CUST10340,Karan Rao,Corporate,India,Bihar,Patna,East,Furniture,Tables,Study Desk,23560,4,0.05,4005.99,Credit Card
+ORD202512030573,03-12-2025,CUST10159,Diya Shah,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Furniture,Storage,Wardrobe,27750,2,0.25,-988.85,UPI
+ORD202512040209,04-12-2025,CUST10487,Sanjay Bose,Consumer,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Bedding,Cotton Bedsheet Set,2878.4,2,0.2,71.56,Credit Card
+ORD202512050387,05-12-2025,CUST10333,Rohan Iyer,Corporate,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Lighting,LED Desk Lamp,2397.6,3,0.2,337.65,Credit Card
+ORD202512070247,07-12-2025,CUST10490,Dev Chopra,Corporate,India,Rajasthan,Jaipur,North,Furniture,Tables,Coffee Table,9450,3,0.3,408.32,UPI
+ORD202512070446,07-12-2025,CUST10185,Aarav Iyer,Consumer,India,Maharashtra,Mumbai,West,Furniture,Chairs,Ergonomic Office Chair,11700,2,0.1,2117.35,UPI
+ORD202512110881,11-12-2025,CUST10321,Aditi Jain,Consumer,India,Bihar,Patna,East,Home & Kitchen,Bedding,Comforter,5248.5,2,0.25,115.89,COD
+ORD202512120519,12-12-2025,CUST10105,Anika Deshmukh,Corporate,India,Rajasthan,Jaipur,North,Furniture,Storage,Bookshelf,4590,1,0.15,739.87,UPI
+ORD202512130433,13-12-2025,CUST10436,Aishwarya Das,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Lighting,Smart Bulb Pack,2278.1,2,0.05,506.06,Credit Card
+ORD202512140740,14-12-2025,CUST10198,Meera Reddy,Corporate,India,Chhattisgarh,Raipur,Central,Technology,Audio,Bluetooth Speaker,2399.2,1,0.2,127.28,Net Banking
+ORD202512170262,17-12-2025,CUST10525,Nisha Nair,Consumer,India,Madhya Pradesh,Indore,Central,Office Supplies,Writing,Pen Set,212.5,1,0.15,42.21,Net Banking
+ORD202512170399,17-12-2025,CUST10587,Ananya Mishra,Corporate,India,Rajasthan,Jaipur,North,Home & Kitchen,Bedding,Cotton Bedsheet Set,1709.05,1,0.05,340.27,UPI
+ORD202512170418,17-12-2025,CUST10457,Saanvi Singh,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Writing,Premium Notebook,704,4,0.2,42.94,Net Banking
+ORD202512180241,18-12-2025,CUST10141,Manish Khan,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Storage,Bookshelf,19440,4,0.1,2921.06,Debit Card
+ORD202512190257,19-12-2025,CUST10109,Priya Iyer,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Appliances,Air Fryer,18897.3,3,0.1,1334.16,UPI
+ORD202512190874,19-12-2025,CUST10352,Rohan Banerjee,Corporate,India,Gujarat,Ahmedabad,West,Home & Kitchen,Lighting,Smart Bulb Pack,899.25,1,0.25,33.59,Debit Card
+ORD202512200750,20-12-2025,CUST10548,Sanjay Naidu,Corporate,India,Uttar Pradesh,Lucknow,North,Furniture,Home Decor,Floor Lamp,5760,3,0.2,767.76,UPI
+ORD202512200815,20-12-2025,CUST10488,Sneha Pillai,Consumer,India,Telangana,Hyderabad,South,Furniture,Tables,Study Desk,5890,1,0.05,1160.62,Net Banking
+ORD202512210795,21-12-2025,CUST10147,Ishaan Pillai,Consumer,India,Maharashtra,Mumbai,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,4587.45,3,0.15,334.09,COD
+ORD202512210960,21-12-2025,CUST10426,Kavya Mehta,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Computers,Tablet,44998.2,2,0.1,6363.02,COD
+ORD202512230041,23-12-2025,CUST10481,Kavya Kulkarni,Consumer,India,Maharashtra,Mumbai,West,Furniture,Chairs,Dining Chair,2800,1,0,788.57,Debit Card
+ORD202512250029,25-12-2025,CUST10449,Karan Singh,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Technology,Phones,Feature Phone,13494.6,6,0.1,1665.57,Debit Card
+ORD202512250454,25-12-2025,CUST10503,Varun Iyer,Consumer,India,Karnataka,Bengaluru,South,Furniture,Tables,Wooden Table,14450,2,0.15,1613.72,UPI
+ORD202512260774,26-12-2025,CUST10275,Anika Mishra,Consumer,India,Rajasthan,Jaipur,North,Technology,Computers,Tablet,24999,1,0,3268.36,COD
+ORD202512270021,27-12-2025,CUST10428,Akash Reddy,Consumer,India,Karnataka,Bengaluru,South,Furniture,Storage,Bookshelf,18360,4,0.15,2551.74,COD
+ORD202512270270,27-12-2025,CUST10159,Diya Shah,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Storage,Wardrobe,66600,4,0.1,2344.54,Debit Card
+ORD202512290490,29-12-2025,CUST10549,Sanjay Sharma,Consumer,India,Rajasthan,Jaipur,North,Technology,Accessories,Wireless Mouse,629.3,1,0.3,34.88,Credit Card
+ORD202512290604,29-12-2025,CUST10436,Aishwarya Das,Corporate,India,Maharashtra,Nagpur,West,Furniture,Chairs,Dining Chair,12600,5,0.1,1606.03,UPI
+ORD202512290789,29-12-2025,CUST10079,Aarav Jain,Corporate,India,Gujarat,Surat,West,Technology,Phones,Android Smartphone,39098.3,2,0.15,1660.76,Credit Card
+ORD202512290799,29-12-2025,CUST10265,Ira Patel,Home Office,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Writing,Marker Set,2052,6,0.05,349.6,UPI
+ORD202512310228,31-12-2025,CUST10228,Varun Jain,Corporate,India,Kerala,Kochi,South,Office Supplies,Binders,Ring Binder Pack,1536,4,0.2,23.59,UPI
+ORD202512310617,31-12-2025,CUST10060,Meera Gupta,Consumer,India,Gujarat,Ahmedabad,West,Office Supplies,Writing,Marker Set,1710,5,0.05,494.74,COD
+ORD202512310641,31-12-2025,CUST10070,Sanjay Das,Consumer,India,Delhi,New Delhi,North,Technology,Phones,Feature Phone,4248.3,2,0.15,147.62,UPI
+ORD202601010603,01-01-2026,CUST10387,Kabir Mehta,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Storage,Filing Cabinet,12480,2,0.2,256.81,UPI
+ORD202601020716,02-01-2026,CUST10030,Arjun Joshi,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Bedding,Cotton Bedsheet Set,4587.45,3,0.15,897.81,Debit Card
+ORD202601030670,03-01-2026,CUST10470,Rohan Naidu,Consumer,India,Maharashtra,Mumbai,West,Technology,Audio,Bluetooth Speaker,10196.6,4,0.15,785.73,UPI
+ORD202601030714,03-01-2026,CUST10517,Arjun Das,Consumer,India,Kerala,Kochi,South,Furniture,Storage,Filing Cabinet,54600,10,0.3,-2710.76,COD
+ORD202601050087,05-01-2026,CUST10191,Sneha Verma,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Writing,Pen Set,637.5,3,0.15,101.53,Credit Card
+ORD202601120447,12-01-2026,CUST10291,Aditi Pillai,Consumer,India,Maharashtra,Pune,West,Furniture,Chairs,Ergonomic Office Chair,33150,6,0.15,5286.24,Net Banking
+ORD202601130157,13-01-2026,CUST10240,Sneha Kulkarni,Consumer,India,Maharashtra,Nagpur,West,Furniture,Chairs,Ergonomic Office Chair,13000,2,0,2621.67,Debit Card
+ORD202601130312,13-01-2026,CUST10573,Kavya Joshi,Home Office,India,Bihar,Patna,East,Office Supplies,Binders,Ring Binder Pack,1368,3,0.05,338.8,Credit Card
+ORD202601130674,13-01-2026,CUST10223,Priya Mehta,Home Office,India,Tamil Nadu,Chennai,South,Furniture,Storage,Bookshelf,19440,4,0.1,3385.12,Credit Card
+ORD202601140393,14-01-2026,CUST10524,Vikram Verma,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Lighting,LED Desk Lamp,2997,4,0.25,229.78,Debit Card
+ORD202601150840,15-01-2026,CUST10130,Pooja Patel,Consumer,India,Kerala,Kochi,South,Technology,Computers,Desktop Computer,109647.45,3,0.15,3057.64,COD
+ORD202601160096,16-01-2026,CUST10431,Ishaan Banerjee,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Lighting,Smart Bulb Pack,899.25,1,0.25,80.88,UPI
+ORD202601160217,16-01-2026,CUST10427,Kavya Shah,Consumer,India,Maharashtra,Nagpur,West,Technology,Audio,Bluetooth Speaker,16194.6,6,0.1,2474.93,Credit Card
+ORD202601180153,18-01-2026,CUST10470,Rohan Naidu,Consumer,India,Bihar,Patna,East,Furniture,Home Decor,Floor Lamp,15360,8,0.2,1985.44,UPI
+ORD202601190291,19-01-2026,CUST10496,Aditya Joshi,Home Office,India,Maharashtra,Pune,West,Technology,Audio,Bluetooth Speaker,2699.1,1,0.1,245.6,UPI
+ORD202601190606,19-01-2026,CUST10427,Kavya Shah,Corporate,India,Gujarat,Surat,West,Technology,Audio,Wireless Headphones,4249.15,1,0.15,609.15,UPI
+ORD202601210442,21-01-2026,CUST10354,Aditi Rao,Consumer,India,Punjab,Ludhiana,North,Furniture,Chairs,Ergonomic Office Chair,11700,2,0.1,1774.62,Net Banking
+ORD202601220269,22-01-2026,CUST10527,Karan Pillai,Consumer,India,Maharashtra,Pune,West,Home & Kitchen,Bedding,Comforter,3149.1,1,0.1,380.1,UPI
+ORD202601220940,22-01-2026,CUST10216,Ishaan Mehta,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Paper,Notebook Pack,450,1,0,98.25,Credit Card
+ORD202601240191,24-01-2026,CUST10058,Akash Iyer,Corporate,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Bedding,Cotton Bedsheet Set,1529.15,1,0.15,268.17,Debit Card
+ORD202601240602,24-01-2026,CUST10006,Nisha Patel,Consumer,India,Uttar Pradesh,Lucknow,North,Technology,Phones,Feature Phone,1999.2,1,0.2,60.14,Debit Card
+ORD202601270372,27-01-2026,CUST10056,Riya Nair,Consumer,India,Gujarat,Surat,West,Office Supplies,Paper,Notebook Pack,1350,3,0,328.06,UPI
+ORD202601290687,29-01-2026,CUST10239,Neha Jain,Consumer,India,Maharashtra,Mumbai,West,Technology,Computers,Tablet,99996,4,0,14308.98,Credit Card
+ORD202602010483,01-02-2026,CUST10231,Sneha Khan,Consumer,India,Punjab,Ludhiana,North,Home & Kitchen,Bedding,Cotton Bedsheet Set,1619.1,1,0.1,280.22,Credit Card
+ORD202602010872,01-02-2026,CUST10092,Sneha Kulkarni,Consumer,India,Karnataka,Bengaluru,South,Furniture,Storage,Filing Cabinet,18720,3,0.2,615.85,Net Banking
+ORD202602040045,04-02-2026,CUST10017,Rahul Singh,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Writing,Premium Notebook,660,3,0,198.97,Debit Card
+ORD202602040091,04-02-2026,CUST10383,Priya Kapoor,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Appliances,Mixer Grinder,8412.45,3,0.15,695.98,Credit Card
+ORD202602040264,04-02-2026,CUST10547,Vikram Pillai,Consumer,India,Tamil Nadu,Chennai,South,Furniture,Chairs,Ergonomic Office Chair,13000,2,0,2313.02,UPI
+ORD202602050968,05-02-2026,CUST10125,Diya Patel,Consumer,India,Telangana,Hyderabad,South,Furniture,Chairs,Dining Chair,4760,2,0.15,456.69,UPI
+ORD202602060948,06-02-2026,CUST10220,Nisha Verma,Consumer,India,Maharashtra,Nagpur,West,Home & Kitchen,Appliances,Air Fryer,6299.1,1,0.1,452.47,Credit Card
+ORD202602080283,08-02-2026,CUST10563,Kabir Shah,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Storage,Filing Cabinet,7800,1,0,1884.34,Credit Card
+ORD202602080523,08-02-2026,CUST10533,Ira Mishra,Corporate,India,Telangana,Hyderabad,South,Technology,Phones,Feature Phone,4748.1,2,0.05,501.43,COD
+ORD202602090997,09-02-2026,CUST10023,Ishaan Kulkarni,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Lighting,Smart Bulb Pack,4556.2,4,0.05,864.54,UPI
+ORD202602100089,10-02-2026,CUST10274,Samiksha Khan,Home Office,India,West Bengal,Kolkata,East,Furniture,Storage,Filing Cabinet,14820,2,0.05,2830.47,Credit Card
+ORD202602110107,11-02-2026,CUST10491,Manish Verma,Home Office,India,Delhi,New Delhi,North,Home & Kitchen,Appliances,Air Fryer,6649.05,1,0.05,949.32,Debit Card
+ORD202602120120,12-02-2026,CUST10144,Ananya Jain,Corporate,India,Maharashtra,Nagpur,West,Office Supplies,Paper,A4 Paper Ream,512,2,0.2,3.93,Debit Card
+ORD202602120337,12-02-2026,CUST10489,Anika Nair,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Writing,Pen Set,475,2,0.05,147.73,Credit Card
+ORD202602130147,13-02-2026,CUST10043,Tanvi Patel,Corporate,India,Telangana,Hyderabad,South,Technology,Audio,Bluetooth Speaker,7647.45,3,0.15,590.03,COD
+ORD202602140725,14-02-2026,CUST10401,Kavya Pillai,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Binders,Ring Binder Pack,1296,3,0.1,114.86,UPI
+ORD202602140937,14-02-2026,CUST10489,Anika Nair,Corporate,India,Rajasthan,Jaipur,North,Furniture,Tables,Wooden Table,22950,3,0.1,3119.29,UPI
+ORD202602150414,15-02-2026,CUST10320,Rohan Deshmukh,Consumer,India,Delhi,New Delhi,North,Office Supplies,Writing,Pen Set,225,1,0.1,56.97,Debit Card
+ORD202602170456,17-02-2026,CUST10297,Riya Mehta,Corporate,India,Rajasthan,Jaipur,North,Furniture,Home Decor,Decorative Mirror,2720,1,0.15,565.77,Debit Card
+ORD202602170858,17-02-2026,CUST10320,Rohan Deshmukh,Corporate,India,Gujarat,Surat,West,Furniture,Tables,Wooden Table,45900,6,0.1,4972.83,Debit Card
+ORD202602180106,18-02-2026,CUST10573,Kavya Joshi,Consumer,India,Delhi,New Delhi,North,Office Supplies,Binders,Ring Binder Pack,456,1,0.05,100.92,Debit Card
+ORD202602180769,18-02-2026,CUST10207,Ira Verma,Consumer,India,Gujarat,Surat,West,Furniture,Tables,Wooden Table,14450,2,0.15,1839.8,Debit Card
+ORD202602200054,20-02-2026,CUST10079,Aarav Jain,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Organizers,Cable Organizer,852.15,3,0.05,156.27,Debit Card
+ORD202602200234,20-02-2026,CUST10091,Priya Naidu,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Lighting,Smart Bulb Pack,8632.8,8,0.1,865.71,UPI
+ORD202602200535,20-02-2026,CUST10561,Dev Patel,Consumer,India,Maharashtra,Mumbai,West,Technology,Audio,Bluetooth Speaker,7197.6,3,0.2,945.29,UPI
+ORD202602200699,20-02-2026,CUST10447,Anika Shah,Home Office,India,Bihar,Patna,East,Home & Kitchen,Bedding,Cotton Bedsheet Set,4047.75,3,0.25,325.82,UPI
+ORD202602210419,21-02-2026,CUST10477,Sanjay Khan,Consumer,India,Maharashtra,Nagpur,West,Home & Kitchen,Cookware,Cookware Set,3654.15,1,0.15,474.34,Credit Card
+ORD202602210759,21-02-2026,CUST10410,Diya Deshmukh,Consumer,India,Karnataka,Bengaluru,South,Technology,Computers,Business Laptop,235996,4,0,27889.27,UPI
+ORD202602220502,22-02-2026,CUST10284,Kavya Naidu,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Organizers,Cable Organizer,1270.75,5,0.15,189.53,Debit Card
+ORD202602220906,22-02-2026,CUST10037,Ananya Jain,Consumer,India,Maharashtra,Nagpur,West,Home & Kitchen,Cookware,Cookware Set,24504.3,6,0.05,2777.41,UPI
+ORD202602230353,23-02-2026,CUST10565,Karan Reddy,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Organizers,Cable Organizer,269.1,1,0.1,36.15,COD
+ORD202602230505,23-02-2026,CUST10188,Aishwarya Verma,Corporate,India,Rajasthan,Jaipur,North,Office Supplies,Binders,Document Folder,127.5,1,0.15,14.44,Credit Card
+ORD202602270274,27-02-2026,CUST10384,Riya Verma,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Lighting,LED Desk Lamp,849.15,1,0.15,108.13,UPI
+ORD202603010896,01-03-2026,CUST10243,Nisha Pillai,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Lighting,LED Desk Lamp,949.05,1,0.05,163.94,Debit Card
+ORD202603030704,03-03-2026,CUST10428,Akash Reddy,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Appliances,Mixer Grinder,5608.3,2,0.15,1.25,UPI
+ORD202603030816,03-03-2026,CUST10390,Kabir Mishra,Consumer,India,Bihar,Patna,East,Home & Kitchen,Lighting,LED Desk Lamp,799.2,1,0.2,138.56,Debit Card
+ORD202603030978,03-03-2026,CUST10395,Varun Reddy,Corporate,India,Bihar,Patna,East,Office Supplies,Binders,Ring Binder Pack,1920,5,0.2,237.6,Net Banking
+ORD202603040302,04-03-2026,CUST10442,Aishwarya Reddy,Consumer,India,Bihar,Patna,East,Furniture,Home Decor,Floor Lamp,12960,6,0.1,3273.88,UPI
+ORD202603050724,05-03-2026,CUST10184,Nisha Chopra,Corporate,India,Karnataka,Bengaluru,South,Office Supplies,Writing,Pen Set,475,2,0.05,134.14,Net Banking
+ORD202603130163,13-03-2026,CUST10246,Rahul Khan,Consumer,India,Gujarat,Ahmedabad,West,Technology,Audio,Bluetooth Speaker,4198.6,2,0.3,223.21,Net Banking
+ORD202603140961,14-03-2026,CUST10332,Priya Shah,Consumer,India,Maharashtra,Mumbai,West,Office Supplies,Binders,Document Folder,142.5,1,0.05,34.11,Credit Card
+ORD202603150265,15-03-2026,CUST10165,Dev Chopra,Home Office,India,Punjab,Ludhiana,North,Technology,Computers,Tablet,94996.2,4,0.05,13609.54,UPI
+ORD202603150326,15-03-2026,CUST10499,Manish Naidu,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Home Decor,Floor Lamp,7200,3,0,2476.33,Credit Card
+ORD202603150620,15-03-2026,CUST10129,Manish Deshmukh,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Cookware,Non-stick Pan,5996,4,0,1532.95,UPI
+ORD202603170424,17-03-2026,CUST10351,Samiksha Banerjee,Consumer,India,Uttar Pradesh,Lucknow,North,Technology,Computers,Tablet,134994.6,6,0.1,12571.81,Credit Card
+ORD202603170650,17-03-2026,CUST10114,Akash Gupta,Consumer,India,Delhi,New Delhi,North,Office Supplies,Organizers,Desk Organizer,1170,2,0.1,139.22,Credit Card
+ORD202603180005,18-03-2026,CUST10244,Tanvi Banerjee,Consumer,India,Maharashtra,Mumbai,West,Technology,Phones,Android Smartphone,20699.1,1,0.1,-188.14,UPI
+ORD202603190489,19-03-2026,CUST10267,Ira Nair,Consumer,India,Bihar,Patna,East,Office Supplies,Paper,A4 Paper Ream,576,2,0.1,39.34,Net Banking
+ORD202603210726,21-03-2026,CUST10595,Kabir Kulkarni,Corporate,India,Maharashtra,Pune,West,Office Supplies,Organizers,Desk Organizer,1170,2,0.1,190.17,COD
+ORD202603220359,22-03-2026,CUST10185,Aarav Iyer,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Office Supplies,Writing,Premium Notebook,1980,10,0.1,364.96,UPI
+ORD202603220672,22-03-2026,CUST10305,Aditi Shah,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Appliances,Mixer Grinder,14020.75,5,0.15,513.1,COD
+ORD202603221000,22-03-2026,CUST10145,Ananya Gupta,Corporate,India,Telangana,Hyderabad,South,Home & Kitchen,Appliances,Electric Kettle,1299,1,0,368.41,UPI
+ORD202603230216,23-03-2026,CUST10311,Tanvi Singh,Consumer,India,Kerala,Kochi,South,Furniture,Tables,Wooden Table,7225,1,0.15,800.99,UPI
+ORD202603240277,24-03-2026,CUST10258,Priya Naidu,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Phones,Feature Phone,4248.3,2,0.15,140.72,UPI
+ORD202603240732,24-03-2026,CUST10186,Ananya Naidu,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Writing,Pen Set,212.5,1,0.15,47.43,Credit Card
+ORD202603250534,25-03-2026,CUST10079,Aarav Jain,Corporate,India,West Bengal,Kolkata,East,Office Supplies,Organizers,Cable Organizer,269.1,1,0.1,57.18,Credit Card
+ORD202603260140,26-03-2026,CUST10065,Saanvi Chopra,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Phones,Feature Phone,2499,1,0,484.55,Credit Card
+ORD202603270280,27-03-2026,CUST10559,Diya Mishra,Consumer,India,Gujarat,Surat,West,Office Supplies,Binders,Ring Binder Pack,864,2,0.1,79.71,UPI
+ORD202603270642,27-03-2026,CUST10046,Samiksha Shah,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Bedding,Comforter,6298.2,2,0.1,663.75,Credit Card
+ORD202603280477,28-03-2026,CUST10101,Akash Joshi,Consumer,India,Uttar Pradesh,Lucknow,North,Furniture,Chairs,Accent Chair,16200,3,0.25,98.49,UPI
+ORD202603290342,29-03-2026,CUST10511,Arjun Singh,Home Office,India,Telangana,Hyderabad,South,Furniture,Storage,Bookshelf,16200,4,0.25,-885.41,Debit Card
+ORD202603290651,29-03-2026,CUST10445,Neha Pillai,Corporate,India,Maharashtra,Nagpur,West,Furniture,Tables,Wooden Table,32300,4,0.05,4536.45,UPI
+ORD202603310691,31-03-2026,CUST10228,Varun Jain,Consumer,India,Karnataka,Bengaluru,South,Office Supplies,Writing,Marker Set,1080,3,0,290.34,Net Banking
+ORD202603310831,31-03-2026,CUST10592,Aishwarya Kapoor,Consumer,India,Karnataka,Bengaluru,South,Technology,Audio,Wireless Headphones,8998.2,2,0.1,710.33,COD
+ORD202604010445,01-04-2026,CUST10101,Akash Joshi,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Lighting,LED Desk Lamp,2697.3,3,0.1,410.77,UPI
+ORD202604010559,01-04-2026,CUST10047,Rahul Pillai,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Bedding,Comforter,10497,3,0,3095.69,UPI
+ORD202604030128,03-04-2026,CUST10338,Zoya Shah,Consumer,India,Tamil Nadu,Chennai,South,Technology,Phones,Feature Phone,6372.45,3,0.15,252.1,UPI
+ORD202604030303,03-04-2026,CUST10590,Karan Iyer,Consumer,India,Gujarat,Surat,West,Office Supplies,Organizers,Desk Organizer,3900,6,0,1028.67,Credit Card
+ORD202604030310,03-04-2026,CUST10531,Rohan Rao,Consumer,India,Maharashtra,Pune,West,Technology,Accessories,USB-C Hub,2089.05,1,0.05,287.33,UPI
+ORD202604030416,03-04-2026,CUST10291,Aditi Pillai,Consumer,India,Rajasthan,Jaipur,North,Furniture,Storage,Filing Cabinet,35100,5,0.1,2179.77,UPI
+ORD202604040349,04-04-2026,CUST10450,Tanvi Gupta,Corporate,India,Maharashtra,Mumbai,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,1799,1,0,519.78,Credit Card
+ORD202604070636,07-04-2026,CUST10025,Sanjay Mishra,Consumer,India,Odisha,Bhubaneswar,East,Office Supplies,Writing,Pen Set,375,2,0.25,50.27,COD
+ORD202604100462,10-04-2026,CUST10412,Arjun Reddy,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Phones,Android Smartphone,78196.6,4,0.15,-1605.34,UPI
+ORD202604110546,11-04-2026,CUST10125,Diya Patel,Consumer,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Lighting,LED Desk Lamp,4495.5,5,0.1,1177.46,UPI
+ORD202604120288,12-04-2026,CUST10596,Ira Verma,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Computers,Tablet,19999.2,1,0.2,311.08,Debit Card
+ORD202604120314,12-04-2026,CUST10589,Sneha Mishra,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Lighting,LED Desk Lamp,2997,4,0.25,185.03,Credit Card
+ORD202604120549,12-04-2026,CUST10561,Dev Patel,Corporate,India,Telangana,Hyderabad,South,Furniture,Chairs,Accent Chair,18360,3,0.15,3364.34,UPI
+ORD202604160801,16-04-2026,CUST10480,Rohan Banerjee,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Appliances,Mixer Grinder,11216.6,4,0.15,-2.67,UPI
+ORD202604200119,20-04-2026,CUST10408,Nisha Kapoor,Home Office,India,West Bengal,Kolkata,East,Technology,Accessories,USB-C Hub,7916.4,4,0.1,1745.67,UPI
+ORD202604200630,20-04-2026,CUST10406,Aditya Banerjee,Consumer,India,Punjab,Ludhiana,North,Home & Kitchen,Appliances,Air Fryer,5949.15,1,0.15,515.22,Debit Card
+ORD202604210545,21-04-2026,CUST10316,Akash Verma,Consumer,India,Maharashtra,Pune,West,Furniture,Tables,Study Desk,11780,2,0.05,2964.88,UPI
+ORD202604210661,21-04-2026,CUST10594,Diya Joshi,Corporate,India,Maharashtra,Mumbai,West,Home & Kitchen,Appliances,Electric Kettle,1104.15,1,0.15,68.33,UPI
+ORD202604230060,23-04-2026,CUST10589,Sneha Mishra,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Home Decor,Wall Art Set,4860,3,0.1,1399.26,Debit Card
+ORD202604230220,23-04-2026,CUST10476,Kavya Rao,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Tables,Study Desk,11160,2,0.1,2337.72,Credit Card
+ORD202604240987,24-04-2026,CUST10514,Aishwarya Jain,Consumer,India,Punjab,Ludhiana,North,Furniture,Tables,Study Desk,5270,1,0.15,679.41,Credit Card
+ORD202604270116,27-04-2026,CUST10083,Rohan Patel,Corporate,India,Maharashtra,Pune,West,Furniture,Home Decor,Wall Art Set,3240,2,0.1,823.43,Debit Card
+ORD202604270722,27-04-2026,CUST10036,Samiksha Naidu,Consumer,India,West Bengal,Kolkata,East,Furniture,Storage,Filing Cabinet,13260,2,0.15,566.18,UPI
+ORD202604270932,27-04-2026,CUST10129,Manish Deshmukh,Home Office,India,Uttar Pradesh,Lucknow,North,Home & Kitchen,Appliances,Air Fryer,6649.05,1,0.05,807.45,UPI
+ORD202604290268,29-04-2026,CUST10231,Sneha Khan,Home Office,India,Bihar,Patna,East,Technology,Accessories,Mechanical Keyboard,4898.6,2,0.3,-218.35,Net Banking
+ORD202605010136,01-05-2026,CUST10146,Rohan Kulkarni,Consumer,India,Odisha,Bhubaneswar,East,Home & Kitchen,Appliances,Air Fryer,12598.2,2,0.1,1213.75,Debit Card
+ORD202605010242,01-05-2026,CUST10536,Aarav Banerjee,Home Office,India,Bihar,Patna,East,Home & Kitchen,Bedding,Cotton Bedsheet Set,1619.1,1,0.1,217.08,Net Banking
+ORD202605030979,03-05-2026,CUST10285,Rahul Shah,Corporate,India,Tamil Nadu,Chennai,South,Home & Kitchen,Lighting,Smart Bulb Pack,3237.3,3,0.1,504.88,UPI
+ORD202605040293,04-05-2026,CUST10270,Nisha Chopra,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Audio,Wireless Headphones,8498.3,2,0.15,1185.22,Credit Card
+ORD202605060043,06-05-2026,CUST10512,Aditya Singh,Consumer,India,Maharashtra,Mumbai,West,Technology,Accessories,Mechanical Keyboard,5948.3,2,0.15,631.58,Credit Card
+ORD202605080520,08-05-2026,CUST10435,Arjun Jain,Corporate,India,Punjab,Ludhiana,North,Office Supplies,Organizers,Cable Organizer,508.3,2,0.15,70.72,Credit Card
+ORD202605090176,09-05-2026,CUST10010,Priya Naidu,Home Office,India,Maharashtra,Mumbai,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,1259.3,1,0.3,-7.84,Net Banking
+ORD202605090225,09-05-2026,CUST10384,Riya Verma,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Paper,Notebook Pack,315,1,0.3,4.63,COD
+ORD202605110517,11-05-2026,CUST10455,Aishwarya Banerjee,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Organizers,Desk Organizer,2600,5,0.2,318.09,Net Banking
+ORD202605130070,13-05-2026,CUST10482,Priya Jain,Consumer,India,Maharashtra,Mumbai,West,Furniture,Home Decor,Floor Lamp,10200,5,0.15,2136.29,UPI
+ORD202605140194,14-05-2026,CUST10332,Priya Shah,Consumer,India,Gujarat,Surat,West,Technology,Computers,Tablet,93746.25,5,0.25,-4705.81,Net Banking
+ORD202605140206,14-05-2026,CUST10119,Priya Chopra,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Lighting,Smart Bulb Pack,1079.1,1,0.1,130.45,COD
+ORD202605140537,14-05-2026,CUST10446,Nisha Mishra,Consumer,India,Maharashtra,Nagpur,West,Technology,Audio,Wireless Headphones,16996.6,4,0.15,992.64,Debit Card
+ORD202605160770,16-05-2026,CUST10574,Pooja Chopra,Home Office,India,Bihar,Patna,East,Home & Kitchen,Cookware,Cookware Set,3869.1,1,0.1,755.97,Credit Card
+ORD202605170185,17-05-2026,CUST10340,Karan Rao,Consumer,India,Telangana,Hyderabad,South,Furniture,Tables,Coffee Table,7650,2,0.15,932.98,Credit Card
+ORD202605170434,17-05-2026,CUST10243,Nisha Pillai,Corporate,India,Punjab,Ludhiana,North,Home & Kitchen,Bedding,Cotton Bedsheet Set,12952.8,8,0.1,2638.27,UPI
+ORD202605180131,18-05-2026,CUST10419,Sanjay Naidu,Corporate,India,Gujarat,Surat,West,Office Supplies,Writing,Marker Set,918,3,0.15,167.97,UPI
+ORD202605190330,19-05-2026,CUST10074,Neha Khan,Consumer,India,Odisha,Bhubaneswar,East,Technology,Phones,Feature Phone,6372.45,3,0.15,364.85,Credit Card
+ORD202605190366,19-05-2026,CUST10012,Dev Pillai,Consumer,India,Karnataka,Bengaluru,South,Furniture,Storage,Filing Cabinet,7020,1,0.1,533.11,Credit Card
+ORD202605210282,21-05-2026,CUST10525,Nisha Nair,Consumer,India,Rajasthan,Jaipur,North,Technology,Phones,Android Smartphone,19549.15,1,0.15,233.04,UPI
+ORD202605210735,21-05-2026,CUST10036,Samiksha Naidu,Consumer,India,Gujarat,Ahmedabad,West,Office Supplies,Binders,Ring Binder Pack,720,2,0.25,-37.79,UPI
+ORD202605220224,22-05-2026,CUST10358,Varun Mehta,Consumer,India,Delhi,New Delhi,North,Home & Kitchen,Bedding,Comforter,6998,2,0,2168.82,Net Banking
+ORD202605220473,22-05-2026,CUST10477,Sanjay Khan,Consumer,India,Rajasthan,Jaipur,North,Office Supplies,Writing,Marker Set,864,3,0.2,103.09,Debit Card
+ORD202605220570,22-05-2026,CUST10214,Pooja Gupta,Consumer,India,Karnataka,Bengaluru,South,Office Supplies,Writing,Pen Set,200,1,0.2,32.6,Net Banking
+ORD202605220886,22-05-2026,CUST10159,Diya Shah,Consumer,India,West Bengal,Kolkata,East,Furniture,Home Decor,Decorative Mirror,9600,3,0,2016.05,Debit Card
+ORD202605230009,23-05-2026,CUST10565,Karan Reddy,Corporate,India,Delhi,New Delhi,North,Home & Kitchen,Lighting,LED Desk Lamp,1598.4,2,0.2,153.16,Debit Card
+ORD202605230866,23-05-2026,CUST10245,Dev Banerjee,Consumer,India,Maharashtra,Nagpur,West,Technology,Accessories,Mechanical Keyboard,17495,5,0,3530.19,Credit Card
+ORD202605240093,24-05-2026,CUST10533,Ira Mishra,Consumer,India,Delhi,New Delhi,North,Home & Kitchen,Cookware,Cookware Set,15476.4,4,0.1,2118.02,Credit Card
+ORD202605250027,25-05-2026,CUST10093,Zoya Banerjee,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Home & Kitchen,Lighting,LED Desk Lamp,1598.4,2,0.2,209.8,UPI
+ORD202605270222,27-05-2026,CUST10227,Nisha Shah,Corporate,India,Delhi,New Delhi,North,Office Supplies,Organizers,Desk Organizer,2437.5,5,0.25,153.58,Credit Card
+ORD202605270509,27-05-2026,CUST10146,Rohan Kulkarni,Corporate,India,West Bengal,Kolkata,East,Technology,Accessories,Wireless Mouse,8091,10,0.1,2037.5,UPI
+ORD202605280104,28-05-2026,CUST10148,Rohan Pillai,Corporate,India,Maharashtra,Pune,West,Home & Kitchen,Lighting,LED Desk Lamp,1898.1,2,0.05,405.69,UPI
+ORD202605300097,30-05-2026,CUST10357,Vikram Mehta,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Appliances,Air Fryer,44793.6,8,0.2,2502.4,Net Banking
+ORD202606010615,01-06-2026,CUST10024,Arjun Chopra,Consumer,India,Rajasthan,Jaipur,North,Home & Kitchen,Cookware,Cookware Set,8598,2,0,2469.09,Credit Card
+ORD202606010734,01-06-2026,CUST10185,Aarav Iyer,Consumer,India,Telangana,Hyderabad,South,Office Supplies,Paper,A4 Paper Ream,304,1,0.05,33.46,Credit Card
+ORD202606010767,01-06-2026,CUST10134,Sanjay Das,Consumer,India,Bihar,Patna,East,Office Supplies,Writing,Premium Notebook,198,1,0.1,29.15,UPI
+ORD202606030125,03-06-2026,CUST10395,Varun Reddy,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Cookware,Non-stick Pan,2998,2,0,699.44,UPI
+ORD202606030307,03-06-2026,CUST10122,Samiksha Banerjee,Corporate,India,Telangana,Hyderabad,South,Technology,Computers,Business Laptop,94398.4,2,0.2,1144.06,Debit Card
+ORD202606050151,05-06-2026,CUST10136,Priya Kapoor,Consumer,India,Odisha,Bhubaneswar,East,Technology,Audio,Wireless Headphones,4249.15,1,0.15,469.08,UPI
+ORD202606070012,07-06-2026,CUST10053,Saanvi Bose,Home Office,India,West Bengal,Kolkata,East,Office Supplies,Paper,Sticky Notes Pack,360,2,0,99.9,COD
+ORD202606100796,10-06-2026,CUST10162,Vikram Shah,Consumer,India,Bihar,Patna,East,Technology,Computers,Business Laptop,53099.1,1,0.1,5252.54,UPI
+ORD202606110706,11-06-2026,CUST10419,Sanjay Naidu,Consumer,India,Gujarat,Ahmedabad,West,Technology,Computers,Desktop Computer,42999,1,0,4256.76,UPI
+ORD202606120100,12-06-2026,CUST10050,Ira Nair,Consumer,India,Maharashtra,Pune,West,Home & Kitchen,Lighting,LED Desk Lamp,1698.3,2,0.15,324.63,UPI
+ORD202606140969,14-06-2026,CUST10561,Dev Patel,Consumer,India,Maharashtra,Mumbai,West,Office Supplies,Paper,Notebook Pack,3825,10,0.15,672.17,UPI
+ORD202606150743,15-06-2026,CUST10314,Arjun Rao,Consumer,India,Kerala,Kochi,South,Furniture,Storage,Filing Cabinet,14820,2,0.05,2007.33,UPI
+ORD202606150812,15-06-2026,CUST10044,Riya Patel,Consumer,India,Maharashtra,Pune,West,Technology,Computers,Business Laptop,280245.25,5,0.05,13913.84,Credit Card
+ORD202606160156,16-06-2026,CUST10281,Arjun Nair,Consumer,India,Bihar,Patna,East,Office Supplies,Paper,Notebook Pack,1147.5,3,0.15,68.56,Debit Card
+ORD202606160860,16-06-2026,CUST10110,Diya Gupta,Corporate,India,Uttar Pradesh,Lucknow,North,Furniture,Home Decor,Floor Lamp,2160,1,0.1,473.74,UPI
+ORD202606170214,17-06-2026,CUST10421,Ira Shah,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Cookware,Non-stick Pan,1499,1,0,397.55,Debit Card
+ORD202606170301,17-06-2026,CUST10545,Diya Joshi,Consumer,India,Gujarat,Ahmedabad,West,Furniture,Home Decor,Decorative Mirror,2720,1,0.15,539.52,COD
+ORD202606170410,17-06-2026,CUST10244,Tanvi Banerjee,Consumer,India,West Bengal,Kolkata,East,Technology,Phones,Android Smartphone,18399.2,1,0.2,-20.41,COD
+ORD202606190382,19-06-2026,CUST10150,Arjun Das,Corporate,India,Odisha,Bhubaneswar,East,Home & Kitchen,Lighting,Smart Bulb Pack,1798.5,2,0.25,166.68,Net Banking
+ORD202606220682,22-06-2026,CUST10099,Riya Sharma,Corporate,India,Rajasthan,Jaipur,North,Technology,Computers,Desktop Computer,68798.4,2,0.2,-2395.89,Debit Card
+ORD202606230034,23-06-2026,CUST10540,Sneha Mishra,Consumer,India,Odisha,Bhubaneswar,East,Technology,Audio,Bluetooth Speaker,2399.2,1,0.2,259,COD
+ORD202606240039,24-06-2026,CUST10358,Varun Mehta,Home Office,India,Tamil Nadu,Chennai,South,Furniture,Home Decor,Decorative Mirror,5760,2,0.1,785.81,UPI
+ORD202606250941,25-06-2026,CUST10174,Rahul Naidu,Consumer,India,Punjab,Ludhiana,North,Furniture,Tables,Coffee Table,4500,1,0,1157.86,Credit Card
+ORD202606270230,27-06-2026,CUST10340,Karan Rao,Consumer,India,Chhattisgarh,Raipur,Central,Office Supplies,Organizers,Desk Organizer,1040,2,0.2,95.37,Net Banking
+ORD202606270331,27-06-2026,CUST10456,Arjun Singh,Corporate,India,Bihar,Patna,East,Home & Kitchen,Lighting,LED Desk Lamp,999,1,0,311.58,Debit Card
+ORD202606290049,29-06-2026,CUST10410,Diya Deshmukh,Corporate,India,Karnataka,Bengaluru,South,Office Supplies,Writing,Marker Set,972,3,0.1,220.28,UPI
+ORD202606290944,29-06-2026,CUST10443,Manish Khan,Consumer,India,Maharashtra,Nagpur,West,Technology,Phones,Android Smartphone,147193.6,8,0.2,-853.89,UPI
+ORD202606300469,30-06-2026,CUST10465,Rahul Mehta,Consumer,India,Maharashtra,Pune,West,Technology,Accessories,Wireless Mouse,1798,2,0,638.85,Debit Card
+ORD202606300612,30-06-2026,CUST10454,Pooja Chopra,Corporate,India,Maharashtra,Nagpur,West,Technology,Computers,Tablet,59997.6,3,0.2,-1005.64,Debit Card
+ORD202606300638,30-06-2026,CUST10067,Ishaan Gupta,Corporate,India,Maharashtra,Pune,West,Home & Kitchen,Cookware,Cookware Set,11607.3,3,0.1,919.95,UPI
+ORD202606300709,30-06-2026,CUST10352,Rohan Banerjee,Home Office,India,Uttar Pradesh,Lucknow,North,Office Supplies,Organizers,Cable Organizer,627.9,3,0.3,48.49,COD
+ORD202607010808,01-07-2026,CUST10397,Manish Iyer,Consumer,India,Maharashtra,Nagpur,West,Technology,Audio,Bluetooth Speaker,11996,4,0,3501.2,Credit Card
+ORD202607020249,02-07-2026,CUST10134,Sanjay Das,Consumer,India,Kerala,Kochi,South,Furniture,Home Decor,Wall Art Set,1710,1,0.05,430.05,Debit Card
+ORD202607020259,02-07-2026,CUST10462,Zoya Jain,Consumer,India,Chhattisgarh,Raipur,Central,Technology,Audio,Bluetooth Speaker,5998,2,0,1805.06,COD
+ORD202607020756,02-07-2026,CUST10187,Kavya Chopra,Consumer,India,Punjab,Ludhiana,North,Furniture,Home Decor,Decorative Mirror,12800,4,0,3321.9,Credit Card
+ORD202607030788,03-07-2026,CUST10309,Aditya Singh,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Paper,Notebook Pack,2295,6,0.15,420.22,COD
+ORD202607040391,04-07-2026,CUST10560,Aishwarya Kapoor,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Organizers,Desk Organizer,552.5,1,0.15,84.13,UPI
+ORD202607050836,05-07-2026,CUST10185,Aarav Iyer,Consumer,India,Kerala,Kochi,South,Office Supplies,Writing,Marker Set,288,1,0.2,25.32,Credit Card
+ORD202607050855,05-07-2026,CUST10424,Ishaan Chopra,Consumer,India,Gujarat,Ahmedabad,West,Technology,Audio,Wireless Headphones,37992.4,8,0.05,7971.6,UPI
+ORD202607060449,06-07-2026,CUST10114,Akash Gupta,Corporate,India,Punjab,Ludhiana,North,Office Supplies,Organizers,Desk Organizer,1462.5,3,0.25,9.06,Credit Card
+ORD202607060977,06-07-2026,CUST10054,Nisha Pillai,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Lighting,Smart Bulb Pack,1019.15,1,0.15,87.86,Credit Card
+ORD202607070680,07-07-2026,CUST10106,Kabir Bose,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Cookware,Non-stick Pan,1349.1,1,0.1,166.27,UPI
+ORD202607090755,09-07-2026,CUST10158,Aarav Banerjee,Consumer,India,Kerala,Kochi,South,Furniture,Tables,Coffee Table,4050,1,0.1,596.98,UPI
+ORD202607110004,11-07-2026,CUST10003,Riya Nair,Consumer,India,Gujarat,Surat,West,Technology,Phones,Android Smartphone,18399.2,1,0.2,-1684.4,UPI
+ORD202607120068,12-07-2026,CUST10164,Sanjay Reddy,Corporate,India,Chhattisgarh,Raipur,Central,Office Supplies,Writing,Pen Set,450,2,0.1,96.67,UPI
+ORD202607130417,13-07-2026,CUST10052,Rohan Bose,Consumer,India,Maharashtra,Pune,West,Furniture,Home Decor,Wall Art Set,1530,1,0.15,314.39,COD
+ORD202607140450,14-07-2026,CUST10332,Priya Shah,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Paper,Notebook Pack,630,2,0.3,-24.47,COD
+ORD202607140571,14-07-2026,CUST10135,Anika Nair,Consumer,India,Gujarat,Ahmedabad,West,Office Supplies,Writing,Marker Set,648,2,0.1,98.88,Debit Card
+ORD202607140669,14-07-2026,CUST10212,Ananya Mehta,Consumer,India,Delhi,New Delhi,North,Office Supplies,Organizers,Cable Organizer,269.1,1,0.1,45.33,UPI
+ORD202607140739,14-07-2026,CUST10168,Sneha Gupta,Consumer,India,Maharashtra,Nagpur,West,Office Supplies,Organizers,Desk Organizer,1300,2,0,367.35,Net Banking
+ORD202607150244,15-07-2026,CUST10263,Nisha Joshi,Corporate,India,Telangana,Hyderabad,South,Office Supplies,Binders,Document Folder,120,1,0.2,17.09,COD
+ORD202607150584,15-07-2026,CUST10500,Aditya Kulkarni,Consumer,India,Maharashtra,Pune,West,Furniture,Home Decor,Decorative Mirror,3200,1,0,1072.01,Credit Card
+ORD202607180292,18-07-2026,CUST10370,Rohan Kapoor,Consumer,India,Telangana,Hyderabad,South,Furniture,Chairs,Accent Chair,6120,1,0.15,890.41,COD
+ORD202607190381,19-07-2026,CUST10149,Aishwarya Jain,Corporate,India,Chhattisgarh,Raipur,Central,Technology,Phones,Android Smartphone,34498.5,2,0.25,-4689.24,UPI
+ORD202607190496,19-07-2026,CUST10370,Rohan Kapoor,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Organizers,Cable Organizer,269.1,1,0.1,45.24,Credit Card
+ORD202607190681,19-07-2026,CUST10245,Dev Banerjee,Consumer,India,Maharashtra,Mumbai,West,Home & Kitchen,Cookware,Non-stick Pan,1424.05,1,0.05,329.17,UPI
+ORD202607190766,19-07-2026,CUST10104,Rohan Mehta,Consumer,India,Punjab,Ludhiana,North,Home & Kitchen,Bedding,Comforter,3499,1,0,601.52,Credit Card
+ORD202607200803,20-07-2026,CUST10317,Riya Mishra,Consumer,India,Delhi,New Delhi,North,Furniture,Tables,Study Desk,5580,1,0.1,453.56,Net Banking
+ORD202607210592,21-07-2026,CUST10371,Zoya Rao,Consumer,India,West Bengal,Kolkata,East,Home & Kitchen,Lighting,LED Desk Lamp,899.1,1,0.1,215.5,UPI
+ORD202607220248,22-07-2026,CUST10495,Rohan Pillai,Corporate,India,Telangana,Hyderabad,South,Technology,Audio,Wireless Headphones,11997.6,3,0.2,1238.07,Debit Card
+ORD202607240192,24-07-2026,CUST10029,Riya Kapoor,Corporate,India,Bihar,Patna,East,Technology,Accessories,Mechanical Keyboard,6998,2,0,1436.79,UPI
+ORD202607290273,29-07-2026,CUST10250,Varun Shah,Home Office,India,Odisha,Bhubaneswar,East,Home & Kitchen,Cookware,Cookware Set,3654.15,1,0.15,94.86,Credit Card
+ORD202607290460,29-07-2026,CUST10047,Rahul Pillai,Consumer,India,Gujarat,Surat,West,Furniture,Tables,Coffee Table,4275,1,0.05,1062.84,Credit Card
+ORD202607290634,29-07-2026,CUST10431,Ishaan Banerjee,Consumer,India,Odisha,Bhubaneswar,East,Furniture,Home Decor,Floor Lamp,1920,1,0.2,332.3,Net Banking
+ORD202607290935,29-07-2026,CUST10398,Ananya Kulkarni,Home Office,India,Bihar,Patna,East,Technology,Audio,Bluetooth Speaker,8997,3,0,2659.87,COD
+ORD202607310172,31-07-2026,CUST10154,Saanvi Kulkarni,Consumer,India,Maharashtra,Pune,West,Home & Kitchen,Appliances,Electric Kettle,974.25,1,0.25,-7.51,COD
+ORD202607310492,31-07-2026,CUST10026,Zoya Pillai,Consumer,India,Kerala,Kochi,South,Technology,Audio,Wireless Headphones,3499.3,1,0.3,-99.87,Credit Card
+ORD202607310566,31-07-2026,CUST10079,Aarav Jain,Consumer,India,Kerala,Kochi,South,Furniture,Storage,Bookshelf,3780,1,0.3,-332.34,UPI
+ORD202607310598,31-07-2026,CUST10151,Tanvi Mehta,Corporate,India,Telangana,Hyderabad,South,Technology,Audio,Wireless Headphones,19996,5,0.2,732.47,UPI
+ORD202608010982,01-08-2026,CUST10014,Meera Naidu,Consumer,India,Maharashtra,Pune,West,Office Supplies,Organizers,Cable Organizer,254.15,1,0.15,29.97,Debit Card
+ORD202608020443,02-08-2026,CUST10546,Aditya Pillai,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Bedding,Cotton Bedsheet Set,3238.2,2,0.1,470.93,Debit Card
+ORD202608040025,04-08-2026,CUST10579,Zoya Gupta,Corporate,India,Odisha,Bhubaneswar,East,Office Supplies,Writing,Marker Set,324,1,0.1,51,UPI
+ORD202608040514,04-08-2026,CUST10220,Nisha Verma,Home Office,India,Kerala,Kochi,South,Office Supplies,Writing,Marker Set,1080,3,0,342.21,Net Banking
+ORD202608050204,05-08-2026,CUST10554,Riya Jain,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Writing,Pen Set,225,1,0.1,59.08,UPI
+ORD202608050386,05-08-2026,CUST10277,Dev Shah,Home Office,India,Uttar Pradesh,Lucknow,North,Technology,Accessories,Wireless Mouse,674.25,1,0.25,53.27,Debit Card
+ORD202608060179,06-08-2026,CUST10403,Rohan Iyer,Corporate,India,Odisha,Bhubaneswar,East,Office Supplies,Organizers,Cable Organizer,224.25,1,0.25,3.71,Debit Card
+ORD202608070775,07-08-2026,CUST10137,Rahul Patel,Consumer,India,Maharashtra,Pune,West,Technology,Accessories,USB-C Hub,1869.15,1,0.15,263.69,Net Banking
+ORD202608090155,09-08-2026,CUST10162,Vikram Shah,Consumer,India,Maharashtra,Mumbai,West,Home & Kitchen,Appliances,Air Fryer,27996,5,0.2,-216.66,COD
+ORD202608090567,09-08-2026,CUST10109,Priya Iyer,Corporate,India,Gujarat,Surat,West,Furniture,Chairs,Dining Chair,9520,4,0.15,819.37,Net Banking
+ORD202608110074,11-08-2026,CUST10327,Meera Jain,Consumer,India,West Bengal,Kolkata,East,Office Supplies,Organizers,Cable Organizer,598,2,0,153.31,UPI
+ORD202608110317,11-08-2026,CUST10183,Dev Chopra,Consumer,India,Bihar,Patna,East,Technology,Phones,Android Smartphone,117294.9,6,0.15,7024.77,Credit Card
+ORD202608120487,12-08-2026,CUST10136,Priya Kapoor,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Cookware,Cookware Set,4299,1,0,1127.54,COD
+ORD202608120946,12-08-2026,CUST10534,Saanvi Banerjee,Consumer,India,Madhya Pradesh,Indore,Central,Furniture,Chairs,Ergonomic Office Chair,5850,1,0.1,1269.7,Debit Card
+ORD202608180912,18-08-2026,CUST10557,Saanvi Gupta,Consumer,India,Bihar,Patna,East,Technology,Audio,Wireless Headphones,23995.2,6,0.2,503.32,Debit Card
+ORD202608190388,19-08-2026,CUST10586,Riya Mishra,Consumer,India,Andhra Pradesh,Visakhapatnam,South,Furniture,Chairs,Dining Chair,4480,2,0.2,460.94,UPI
+ORD202608190713,19-08-2026,CUST10488,Sneha Pillai,Home Office,India,Gujarat,Ahmedabad,West,Home & Kitchen,Bedding,Cotton Bedsheet Set,4317.6,3,0.2,616,Debit Card
+ORD202608200321,20-08-2026,CUST10554,Riya Jain,Consumer,India,Bihar,Patna,East,Home & Kitchen,Appliances,Electric Kettle,8833.2,8,0.15,856.02,Debit Card
+ORD202608200958,20-08-2026,CUST10540,Sneha Mishra,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Cookware,Non-stick Pan,1499,1,0,402.36,Debit Card
+ORD202608210332,21-08-2026,CUST10082,Zoya Kapoor,Consumer,India,Karnataka,Bengaluru,South,Furniture,Chairs,Ergonomic Office Chair,35100,6,0.1,3248,Debit Card
+ORD202608250357,25-08-2026,CUST10222,Ishaan Kulkarni,Home Office,India,Gujarat,Ahmedabad,West,Furniture,Tables,Coffee Table,8550,2,0.05,1961.91,Credit Card
+ORD202608260480,26-08-2026,CUST10556,Priya Jain,Consumer,India,Delhi,New Delhi,North,Furniture,Storage,Filing Cabinet,42120,6,0.1,7682.71,UPI
+ORD202608260555,26-08-2026,CUST10273,Saanvi Joshi,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Appliances,Electric Kettle,5520.75,5,0.15,948.63,UPI
+ORD202608260591,26-08-2026,CUST10449,Karan Singh,Corporate,India,Gujarat,Ahmedabad,West,Furniture,Chairs,Accent Chair,7200,1,0,2074.97,COD
+ORD202608260736,26-08-2026,CUST10532,Kavya Joshi,Home Office,India,West Bengal,Kolkata,East,Home & Kitchen,Appliances,Air Fryer,13298.1,2,0.05,2726.24,Net Banking
+ORD202608280033,28-08-2026,CUST10498,Tanvi Bose,Consumer,India,Gujarat,Surat,West,Technology,Computers,Desktop Computer,171996,4,0,34041.87,COD
+ORD202608280358,28-08-2026,CUST10184,Nisha Chopra,Consumer,India,Madhya Pradesh,Indore,Central,Home & Kitchen,Cookware,Cookware Set,10962.45,3,0.15,902.11,UPI
+ORD202608280420,28-08-2026,CUST10230,Ishaan Bose,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Organizers,Desk Organizer,1657.5,3,0.15,270.05,COD
+ORD202608290197,29-08-2026,CUST10587,Ananya Mishra,Consumer,India,Chhattisgarh,Raipur,Central,Furniture,Tables,Coffee Table,3600,1,0.2,344.14,Debit Card
+ORD202608290705,29-08-2026,CUST10113,Ira Bose,Consumer,India,Delhi,New Delhi,North,Technology,Accessories,Wireless Mouse,2157.6,3,0.2,187.42,Net Banking
+ORD202608290758,29-08-2026,CUST10491,Manish Verma,Home Office,India,Punjab,Ludhiana,North,Furniture,Home Decor,Wall Art Set,2880,2,0.2,518.41,UPI
+ORD202608300542,30-08-2026,CUST10538,Meera Shah,Consumer,India,Maharashtra,Nagpur,West,Technology,Computers,Desktop Computer,38699.1,1,0.1,2306.2,Debit Card
+ORD202608310800,31-08-2026,CUST10129,Manish Deshmukh,Corporate,India,Karnataka,Bengaluru,South,Furniture,Tables,Study Desk,5270,1,0.15,583.92,COD
+ORD202609010595,01-09-2026,CUST10529,Neha Shah,Corporate,India,Bihar,Patna,East,Furniture,Home Decor,Floor Lamp,8160,4,0.15,1427.42,UPI
+ORD202609030923,03-09-2026,CUST10066,Aarav Gupta,Consumer,India,Punjab,Ludhiana,North,Office Supplies,Binders,Document Folder,127.5,1,0.15,10.59,Debit Card
+ORD202609040121,04-09-2026,CUST10407,Dev Kapoor,Home Office,India,Odisha,Bhubaneswar,East,Furniture,Storage,Wardrobe,33300,2,0.1,5220.11,Credit Card
+ORD202609040715,04-09-2026,CUST10119,Priya Chopra,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Accessories,Wireless Mouse,674.25,1,0.25,77.87,UPI
+ORD202609050655,05-09-2026,CUST10507,Kavya Shah,Consumer,India,Chhattisgarh,Raipur,Central,Home & Kitchen,Cookware,Non-stick Pan,1424.05,1,0.05,367.89,Credit Card
+ORD202609070112,07-09-2026,CUST10061,Nisha Jain,Consumer,India,Maharashtra,Nagpur,West,Furniture,Chairs,Dining Chair,2380,1,0.15,76.2,UPI
+ORD202609100499,10-09-2026,CUST10385,Neha Kapoor,Consumer,India,Tamil Nadu,Chennai,South,Office Supplies,Organizers,Desk Organizer,1105,2,0.15,174.85,UPI
+ORD202609120614,12-09-2026,CUST10020,Vikram Verma,Consumer,India,Delhi,New Delhi,North,Technology,Audio,Bluetooth Speaker,10196.6,4,0.15,1006.93,UPI
+ORD202609140083,14-09-2026,CUST10564,Sanjay Singh,Home Office,India,Rajasthan,Jaipur,North,Home & Kitchen,Lighting,Smart Bulb Pack,3057.45,3,0.15,283.47,UPI
+ORD202609150036,15-09-2026,CUST10481,Kavya Kulkarni,Home Office,India,Delhi,New Delhi,North,Office Supplies,Organizers,Cable Organizer,956.8,4,0.2,105.64,Credit Card
+ORD202609150134,15-09-2026,CUST10441,Samiksha Pillai,Consumer,India,Gujarat,Ahmedabad,West,Office Supplies,Writing,Premium Notebook,594,3,0.1,137.38,UPI
+ORD202609150579,15-09-2026,CUST10499,Manish Naidu,Consumer,India,Bihar,Patna,East,Home & Kitchen,Bedding,Cotton Bedsheet Set,1799,1,0,370,UPI
+ORD202609150916,15-09-2026,CUST10087,Kabir Nair,Consumer,India,Karnataka,Bengaluru,South,Home & Kitchen,Cookware,Cookware Set,8598,2,0,1537.34,UPI
+ORD202609160141,16-09-2026,CUST10321,Aditi Jain,Consumer,India,Karnataka,Bengaluru,South,Furniture,Storage,Wardrobe,62900,4,0.15,6065.03,Debit Card
+ORD202609160723,16-09-2026,CUST10386,Aarav Naidu,Consumer,India,Odisha,Bhubaneswar,East,Technology,Accessories,USB-C Hub,12534.3,6,0.05,3014.52,Net Banking
+ORD202609180182,18-09-2026,CUST10365,Manish Mishra,Consumer,India,Maharashtra,Pune,West,Office Supplies,Binders,Ring Binder Pack,432,1,0.1,59.75,Debit Card
+ORD202609180468,18-09-2026,CUST10486,Samiksha Sharma,Consumer,India,Rajasthan,Jaipur,North,Furniture,Chairs,Accent Chair,13680,2,0.05,2636.05,Debit Card
+ORD202609180994,18-09-2026,CUST10516,Sanjay Joshi,Consumer,India,Punjab,Ludhiana,North,Furniture,Tables,Study Desk,5890,1,0.05,1452.29,Credit Card
+ORD202609190298,19-09-2026,CUST10578,Ishaan Banerjee,Consumer,India,West Bengal,Kolkata,East,Furniture,Tables,Study Desk,16740,3,0.1,2384.34,UPI
+ORD202609190335,19-09-2026,CUST10553,Anika Kapoor,Consumer,India,Telangana,Hyderabad,South,Home & Kitchen,Bedding,Comforter,6648.1,2,0.05,930.98,UPI
+ORD202609190347,19-09-2026,CUST10044,Riya Patel,Consumer,India,Kerala,Kochi,South,Technology,Phones,Android Smartphone,20699.1,1,0.1,1470.3,UPI
+ORD202609190348,19-09-2026,CUST10062,Ananya Kulkarni,Consumer,India,Gujarat,Surat,West,Furniture,Tables,Study Desk,4340,1,0.3,66.83,Debit Card
+ORD202609190809,19-09-2026,CUST10090,Nisha Deshmukh,Consumer,India,Telangana,Hyderabad,South,Office Supplies,Writing,Marker Set,342,1,0.05,71.26,UPI
+ORD202609200580,20-09-2026,CUST10193,Rahul Gupta,Corporate,India,Delhi,New Delhi,North,Home & Kitchen,Appliances,Air Fryer,5599.2,1,0.2,392.76,Credit Card
+ORD202609210983,21-09-2026,CUST10586,Riya Mishra,Corporate,India,Kerala,Kochi,South,Home & Kitchen,Lighting,LED Desk Lamp,1598.4,2,0.2,231.9,COD
+ORD202609220177,22-09-2026,CUST10146,Rohan Kulkarni,Corporate,India,Maharashtra,Nagpur,West,Furniture,Tables,Coffee Table,7200,2,0.2,534.13,Debit Card
+ORD202609250170,25-09-2026,CUST10591,Kabir Patel,Consumer,India,Kerala,Kochi,South,Home & Kitchen,Bedding,Cotton Bedsheet Set,3238.2,2,0.1,506.7,UPI
+ORD202609270376,27-09-2026,CUST10102,Ananya Patel,Home Office,India,Kerala,Kochi,South,Furniture,Tables,Wooden Table,15300,2,0.1,2672.74,UPI
+ORD202609270467,27-09-2026,CUST10098,Riya Pillai,Consumer,India,Madhya Pradesh,Indore,Central,Technology,Audio,Bluetooth Speaker,2849.05,1,0.05,681,Debit Card
+ORD202609280378,28-09-2026,CUST10514,Aishwarya Jain,Consumer,India,Maharashtra,Pune,West,Office Supplies,Organizers,Desk Organizer,2925,6,0.25,-2.69,UPI
+ORD202609290150,29-09-2026,CUST10300,Varun Gupta,Consumer,India,Punjab,Ludhiana,North,Furniture,Tables,Study Desk,26040,6,0.3,687.11,UPI
+ORD202609290324,29-09-2026,CUST10590,Karan Iyer,Corporate,India,Gujarat,Ahmedabad,West,Office Supplies,Writing,Premium Notebook,396,2,0.1,61.55,Net Banking
+ORD202609290871,29-09-2026,CUST10421,Ira Shah,Corporate,India,Gujarat,Surat,West,Office Supplies,Organizers,Desk Organizer,552.5,1,0.15,104.29,UPI
+ORD202609300764,30-09-2026,CUST10237,Karan Gupta,Consumer,India,Tamil Nadu,Chennai,South,Home & Kitchen,Cookware,Cookware Set,12252.15,3,0.05,1778.94,UPI
